@@ -1,4 +1,5 @@
-# 58266b-experience-modele
+# Instrumentum
+Projet audio-réactif et visuel qui utilise des cubes comme source de controle
 
 Modèle de publication pour le cours 582 66B experience multimedia interactive
 
