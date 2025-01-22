@@ -4,8 +4,8 @@ L'utilisateur est transporté dans un monde abstrait où que la musique et les s
 ## Concept
   Créer un monde abstrait combinant la musique et la technologie ayant pour but de permettre aux gens de s'amuser, de faire de la musique en groupe. Il y aurait 1-3 piédestaux dont un cube par piédestal et chaque cube produirait des sons de manière indépendante, permettant à plusieurs personnes de jouer ensemble. Il y aurait une projection sur le mur faisant face aux 3 cubes et celle-ci sera aussi controlée par les cubes.
   
-## Intention de départ
-On voulait créer un univers de musique abstraite, où qu'on est libre de controler le sons et les projections pour s'approprier son propre monde créatif et se plongé dans un univers de jeu et de music.
+## Intention de départ 
+On voulait créer un univers de musique abstraite, où l'on est libre de contrôler les sons et les projections pour s'approprier son propre monde créatif et se plonger dans un univers de jeu et de musique.
 
 ## Description
 
