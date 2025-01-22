@@ -1,15 +1,14 @@
 # Synopsis
-L'utilisateur est transporté dans un monde abstrait où que les sons sont la source qui contrôle cet univers, l'utilisateur utilise cette source pour forger ce monde comme il veut.
+L'utilisateur est transporté dans un monde abstrait où les sons sont la source contrôlant cet univers. Cependant, il découvrira qu'au-delà de cette beauté se cache un sentiment sinistre.
 
 ## Concept
-  Créer un monde abstrait combinant la musique et la technologie ayant pour but de permettre aux gens de s'amuser, de faire de la musique en groupe. Il y aurait 1-3 piédestaux dont un cube par piédestal et chaque cube produirait des sons de manière indépendante, permettant à plusieurs personnes de jouer ensemble. Il y aurait une projection sur le mur faisant face aux 3 cubes et celle-ci sera aussi controlée par les cubes.
+Créer un monde abstrait combinant la musique et la technologie, avec pour objectif de permettre aux gens de réfléchir, de faire de la musique en groupe et d’admirer le merveilleux chaos qui se déroule devant eux. Il y aurait de 1 à 3 piédestaux, chacun portant un cube, et chaque cube produirait des sons de manière indépendante, permettant ainsi à plusieurs personnes de jouer ensemble. Une projection serait diffusée sur le mur en face des cubes, et celle-ci serait également contrôlée par les cubes.
   
 ## Intention de départ 
-On voulait créer un univers d'ambiance abstraite, où l'on est libre de contrôler les sons et les projections pour s'approprier son propre monde créatif et se plonger dans un univers de jeu et de musique.
+Nous souhaitions créer un univers à l'ambiance abstraite, où l'on peut librement contrôler les sons et les projections afin de s'approprier son propre monde créatif et de se plonger dans un univers musical. Les sons qui y seront ajoutés seront à la fois inquiétants et merveilleux. Ce contraste doit être évident, afin de susciter différentes émotions chez l'utilisateur.
 
 ## Description
-
-
+Instrumentum est une exposition intéractive qui a comme but de raprocher le 
 
 < ! -- ## Références
 
