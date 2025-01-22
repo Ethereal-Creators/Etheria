@@ -30,9 +30,22 @@ flowchart TD
     n15@{ shape: rect}
     n17@{ shape: rect}
     style n1 stroke:#D50000,fill:#D50000,color:#FFD600
+    style n2 stroke:#0288D1,fill:#0288D1,color:#FFFFFF
     style n3 fill:#616161,color:#FFFFFF
     style n13 fill:#616161,color:#FFFFFF
     style n7 fill:#D50000,color:#FFD600
+    style n10 fill:#43A047,color:#FFFFFF
+    style n11 fill:#FF9800,color:#FFFFFF
+    style n8 fill:#8E24AA,color:#FFFFFF
+    style n9 fill:#8E24AA,color:#FFFFFF
+    style n16 fill:#0288D1,color:#FFFFFF
+    style n14 fill:#0288D1,color:#FFFFFF
+    style n15 fill:#FF5722,color:#FFFFFF
+    style n17 fill:#FF5722,color:#FFFFFF
+    style n18 fill:#9C27B0,color:#FFFFFF
+    style n19 fill:#9C27B0,color:#FFFFFF
+    style n20 fill:#9C27B0,color:#FFFFFF
+
 ```
 
 ## Références
