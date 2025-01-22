@@ -1,6 +1,7 @@
-# Membre y
+# Pierre-Luc Proulx
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=y)
+<img src="/10_equipe/membre_y/pierreluc_00000.jpg" alt="pierreluc" width="720"/>
+
 
  ## Réalisations
 
