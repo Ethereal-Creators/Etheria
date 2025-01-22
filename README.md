@@ -1,7 +1,5 @@
 # Instrumentum
-Projet audio-réactif et visuel qui utilise des cubes comme source de controle
-
-Modèle de publication pour le cours 582 66B experience multimedia interactive
+Projet audio-réactif et visuel abstrait utilisant des cubes comme source de contrôle, permettant aux utilisateurs d'explorer une beauté sinistre.
 
 ## Devrait être présent sur cette page:
 
