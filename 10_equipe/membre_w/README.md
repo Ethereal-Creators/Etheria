@@ -1,6 +1,6 @@
 # Membre W
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=w)
+ ![Victor](/10_equipe/membre_w/vic_00000.jpg)
 
  ## Réalisations
 
