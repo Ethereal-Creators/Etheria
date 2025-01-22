@@ -1,6 +1,6 @@
 # Joshua Gonzalez-Barrera
 
- ![Joshua](/10_equipe/membre_v/0A8A4986.JPG)
+<img src="/10_equipe/membre_v/josh_00000.jpg" alt="josh" width="720"/>
 
  ## Réalisations
 
