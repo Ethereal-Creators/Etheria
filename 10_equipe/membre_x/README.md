@@ -1,6 +1,6 @@
 # Michael Un Dupré
 
-<img src="https://github.com/Ethereal-Creators/Instrumentum/blob/main/10_equipe/membre_x/michael_00000.jpg" alt="michael" width="720"/>
+<img src="https://github.com/Ethereal-Creators/Instrumentum_Medias/blob/6bd700c50fbda2361cad9284aee93a04bb5a247a/photo_equipe/michael_00000.jpg" alt="michael" width="720"/>
 
  ## Réalisations
 
