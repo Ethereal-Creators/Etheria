@@ -12,13 +12,14 @@
 
 ```mermaid
 graph TD
-    A[L'utilisateur rentre dans la la salle] --> B[la distance affect le sons]
-    B[un des 3 cubes est touché] --> C[la distance affect le sons]
-    B --> D[la distance affect le sons]
-    B --> E[la distance affect le sons]
+    A[L'utilisateur rentre dans la la salle] --sons d'ambiance et lumière ambiante--> B[la distance affect le sons]
+    B[un des 3 cubes est touché] -- le niveau de lumière affect un paramètre de l'ambiance --> C[la distance affect le sons]
+    B --le niveau de lumière affect un paramètre de l'ambiance --> D[la distance affect le sons]
+    B --le niveau de lumière affect un paramètre de l'ambiance --> E[la distance affect le sons]
     C --> F[l'utilisateur quitte la pièce]
     D --> F[l'utilisateur quitte la pièce]
     E --> F[l'utilisateur quitte la pièce]
+    F --> A
 ```
 
 ## Références
