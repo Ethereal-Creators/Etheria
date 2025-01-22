@@ -1,6 +1,6 @@
-# Membre x
+# Michael Un Dupré
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=x)
+ ![Michael](/10_equipe/membre_x/michael_00000.jpg)
 
  ## Réalisations
 
