@@ -24,9 +24,9 @@ flowchart TD
 
     %% CAPTEURS %%
     subgraph Capteurs
-        n15["📡 Tof Unit x5"] --> n18(["🛠 PBHub"])
-        n15["📡 Tof Unit x5"] --> n19(["🛠 PBHub"])
-        n15["📡 Tof Unit x5"] --> n20(["🛠 PBHub"])
+        n15["📡 Tof Unit x5"] --> n18(["🛠 PB Hub"])
+        n15["📡 Tof Unit x5"] --> n19(["🛠 PB Hub"])
+        n15["📡 Tof Unit x5"] --> n20(["🛠 PB Hub"])
         n18 --> n14["M5Atom"]
         n14 --> n13
         n16 --> n13
