@@ -1,6 +1,6 @@
 # Victor Gileau
 
-<img src="/10_equipe/membre_w/vic_00000.jpg" alt="vic" width="720"/>
+<img src="https://github.com/Ethereal-Creators/Instrumentum/blob/main/10_equipe/membre_w/vic_00000.jpg" alt="vic" width="720"/>
 
  ## Réalisations
 
