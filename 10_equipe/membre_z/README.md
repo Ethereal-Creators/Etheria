@@ -1,6 +1,6 @@
-# Membre z
+# Maik Hamel
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=z)
+ ![Maik](/10_equipe/membre_z/maik_00000.jpg)
 
  ## Réalisations
 
