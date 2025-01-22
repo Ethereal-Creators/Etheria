@@ -1,6 +1,6 @@
 # Maik Hamel
 
- ![Maik](/10_equipe/membre_z/maik_00000.jpg)
+<img src="/10_equipe/membre_z/maik_00000.jpg" alt="josh" width="720"/>
 
  ## Réalisations
 
