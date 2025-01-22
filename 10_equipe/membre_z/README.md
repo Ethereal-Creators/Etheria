@@ -1,6 +1,6 @@
 # Maik Hamel
 
-<img src="/10_equipe/membre_z/maik_00000.jpg" alt="josh" width="720"/>
+<img src="https://github.com/Ethereal-Creators/Instrumentum/tree/main/10_equipe/membre_z" alt="maik" width="720"/>
 
  ## Réalisations
 
