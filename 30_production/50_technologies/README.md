@@ -1,5 +1,8 @@
 # Technologies 
 ## Matériel
+### Audio
+### Lumière
+### Affichage
 
 ## Références
 
