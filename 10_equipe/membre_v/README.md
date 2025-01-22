@@ -1,6 +1,6 @@
-# Membre v
+# Joshua Gonzalez-Barrera
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=v)
+ ![Joshua](10_equipe/membre_v/0A8A4986.JPG)
 
  ## Réalisations
 
