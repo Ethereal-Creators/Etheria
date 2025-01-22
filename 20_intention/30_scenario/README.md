@@ -12,15 +12,18 @@
 
 ```mermaid
 graph TD
-    A[L'utilisateur rentre dans la la salle] --sons d'ambiance et lumière ambiante--> B[la distance affect le sons]
-    B[un des 3 cubes est touché] -- le niveau de lumière affect un paramètre de l'ambiance --> C[la distance affect le sons]
+    A[rentrer dans la la salle] --sons d'ambiance et lumière ambiante--> B[la distance affect le sons]
+    B[Toucher un cube] -- le niveau de lumière affect un paramètre de l'ambiance --> C[la distance affect le sons]
     B --le niveau de lumière affect un paramètre de l'ambiance --> D[la distance affect le sons]
     B --le niveau de lumière affect un paramètre de l'ambiance --> E[la distance affect le sons]
-    C --> F[l'utilisateur quitte la pièce]
-    D --> F[l'utilisateur quitte la pièce]
-    E --> F[l'utilisateur quitte la pièce]
+    C --> F[quitter la pièce]
+    D --> F[quitter la pièce]
+    E --> F[quitter la pièce]
     F --> A
 ```
+
+## Progression
+L'utilisateur fait progresser l'expérience en jouant avec les faces des cubes pour ajouter des sons et des effets pour leur donner un produit final qui leur est satisfaisant.
 
 ## Références
 
