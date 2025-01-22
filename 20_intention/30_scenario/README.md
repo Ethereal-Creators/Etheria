@@ -10,6 +10,16 @@
 
 * Toutes les façons que les interacteurs peuvent faire progresser l’expérience
 
+```mermaid
+graph TD
+    A[L'utilisateur rentre dans la la salle] --> B[la distance affect le sons]
+    B[un des 3 cubes est touché] --> C[la distance affect le sons]
+    B --> D[la distance affect le sons]
+    B --> E[la distance affect le sons]
+    C --> F[l'utilisateur quitte la pièce]
+    D --> F[l'utilisateur quitte la pièce]
+    E --> F[l'utilisateur quitte la pièce]
+```
 
 ## Références
 
