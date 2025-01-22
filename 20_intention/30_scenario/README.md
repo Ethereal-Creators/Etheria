@@ -13,7 +13,7 @@
 ```mermaid
 graph TD
     A[rentrer dans la la salle] --sons d'ambiance et lumière ambiante--> B[la distance affect le sons]
-    B[Interagir un cube] -- le niveau de lumière affect un paramètre de l'ambiance --> C[la distance affect le sons]
+    B[Interagir avec un cube] -- le niveau de lumière affect un paramètre de l'ambiance --> C[la distance affect le sons]
     B --le niveau de lumière affect un paramètre de l'ambiance --> D[la distance affect le sons]
     B --le niveau de lumière affect un paramètre de l'ambiance --> E[la distance affect le sons]
     C --> F[quitter la pièce]
