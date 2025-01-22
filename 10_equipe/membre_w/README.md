@@ -1,6 +1,6 @@
-# Membre W
+# Victor Gileau
 
- ![Victor](/10_equipe/membre_w/vic_00000.jpg)
+<img src="/10_equipe/membre_w/vic_00000.jpg" alt="vic" width="720"/>
 
  ## Réalisations
 
