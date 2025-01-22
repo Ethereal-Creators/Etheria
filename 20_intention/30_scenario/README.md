@@ -12,10 +12,11 @@
 
 ```mermaid
 graph TD
-    A[Retour en mode veille] --activation de l'installation--> B[la distance affect le sons]
-    B[Interaction avec un cube] -- Paramètre affecter --> C[la distance affect le sons]
-    B --Paramètre affecter --> D[la distance affect le sons]
-    B --Paramètre affecter --> E[la distance affect le sons]
+    A[Retour en mode veille] --> x[rentrer dans la pièce]
+    x -- activation de l'installation --> B
+    B[Interaction avec un cube] -- Paramètre du sons affecter --> C[résultat de l'interaction]
+    B --Paramètre du sons affecter --> D[résultat de l'interaction]
+    B --Paramètre du sons affecter --> E[résultat de l'interaction]
     C --> F[quitter la pièce]
     D --> F
     E --> F
