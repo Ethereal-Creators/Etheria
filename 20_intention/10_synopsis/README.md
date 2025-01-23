@@ -7,7 +7,7 @@ Créer un monde fantastique où magie et créatures mythologiques coexistent, of
 Nous souhaitions créer un univers à l'ambiance fantaisique, où l'on peut librement contrôler les sons et les projections afin de s'approprier son propre monde créatif et de se plonger dans un univers musical. Les sons qui y seront ajoutés seront à la fois inquiétants et merveilleux. Ce contraste doit être évident, afin de susciter différentes émotions chez l'utilisateur.
 
 ## Description
-Instrumentum est une exposition intéractive qui a comme but de raprocher le 
+**Étheria** est un projet intéractif 3D en lowpoly qui consiste à construire des villes contres d'autres intéracteurs
 
 < ! -- ## Références
 
