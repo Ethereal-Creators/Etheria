@@ -15,7 +15,7 @@ graph TD
     A[Retour en mode veille] --> x[Menu]
     x --> N
     x --> B[veille]
-    B[commencer] -- Paramètre du sons affecter --> C[Interaction]
+    B[commencer] --> C[Interaction]
     C --> F[résultat sur l'écran]
     F --> M[progression phase attaque]
     M --> U[Terminer]
