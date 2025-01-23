@@ -13,7 +13,7 @@
 ```mermaid
 graph TD
     A[Retour en mode veille] --> x[Menu]
-    x --> Z[quitter]
+    x --> N
     x --> B[veille]
     B[commencer] -- Paramètre du sons affecter --> C[Interaction]
     C --> F[résultat sur l'écran]
