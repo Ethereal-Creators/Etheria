@@ -1,5 +1,5 @@
 # Synopsis
-L'utilisateur est transporté dans un monde abstrait où les sons sont la source contrôlant cet univers. Cependant, il découvrira qu'au-delà de cette beauté se cache un sentiment sinistre.
+L'utilisateur est transporté dans un monde de fantaisie où les sons sont la source contrôlant cet univers. Cependant, il découvrira qu'au-delà de cette beauté se cache un sentiment sinistre.
 
 ## Concept
 Créer un monde abstrait combinant la musique et la technologie, avec pour objectif de permettre aux gens de réfléchir, de faire de la musique en groupe et d’admirer le merveilleux chaos qui se déroule devant eux. Il y aurait de 1 à 3 piédestaux, chacun portant un cube, et chaque cube produirait des sons de manière indépendante, permettant ainsi à plusieurs personnes de jouer ensemble. Une projection serait diffusée sur le mur en face des cubes, et celle-ci serait également contrôlée par les cubes.
