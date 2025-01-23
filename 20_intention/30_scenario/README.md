@@ -20,8 +20,9 @@ graph TD
     F --> M[progression phase attaque]
     M --> U[Terminer]
     U --> H[recommencer]
+    H --> x
     U --> N[quitter]
-    N --> x
+    N --> A
 ```
 
 ## Progression
