@@ -12,15 +12,16 @@
 
 ```mermaid
 graph TD
-    A[Retour en mode veille] --> x[rentrer dans la pièce]
-    x -- activation de l'installation --> B
-    B[Interaction avec un cube] -- Paramètre du sons affecter --> C[résultat de l'interaction]
-    B --Paramètre du sons affecter --> D[résultat de l'interaction]
-    B --Paramètre du sons affecter --> E[résultat de l'interaction]
-    C --> F[quitter la pièce]
-    D --> F
-    E --> F
-    F --> A
+    A[Retour en mode veille] --> x[Menu]
+    x --> Z[quitter]
+    x --> B[veille]
+    B[commencer] -- Paramètre du sons affecter --> C[Interaction]
+    C --> F[résultat sur l'écran]
+    F --> M[progression phase attaque]
+    M --> U[Terminer]
+    U --> H[recommencer]
+    U --> N[quitter]
+    N --> X
 ```
 
 ## Progression
