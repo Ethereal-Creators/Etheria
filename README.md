@@ -1,5 +1,5 @@
-# Instrumentum
-Projet audio-réactif et visuel abstrait utilisant des cubes comme source de contrôle, permettant aux utilisateurs d'explorer une beauté sinistre.
+# Etheria
+Le projet interactif 3D en lowpoly permet à plusieurs joueurs de construire des villes tout en affrontant d'autres participants dans un environnement compétitif. Chaque joueur doit gérer ses ressources et stratégies pour développer sa ville tout en perturbant celles de ses adversaires.
 
 ## Devrait être présent sur cette page:
 
