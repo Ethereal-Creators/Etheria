@@ -21,7 +21,7 @@ graph TD
     M --> U[Terminer]
     U --> H[recommencer]
     U --> N[quitter]
-    N --> X
+    N --> x
 ```
 
 ## Progression
