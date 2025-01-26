@@ -1,6 +1,6 @@
 # Pierre-Luc Proulx
 
-<img src="https://github.com/Ethereal-Creators/Instrumentum_Medias/blob/6bd700c50fbda2361cad9284aee93a04bb5a247a/photo_equipe/pierreluc_00000.jpg" alt="pierreluc" width="720"/>
+<img src="pierreluc_00000.jpg" alt="pierreluc" width="720"/>
 
 
  ## Réalisations
