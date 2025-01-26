@@ -1,6 +1,6 @@
 # Maik Hamel
 
-<img src="https://github.com/Ethereal-Creators/Instrumentum_Medias/blob/6bd700c50fbda2361cad9284aee93a04bb5a247a/photo_equipe/maik_00000.jpg" alt="maik" width="720"/>
+<img src="maik_00000.jpg" alt="maik" width="720"/>
 
  ## Réalisations
 
