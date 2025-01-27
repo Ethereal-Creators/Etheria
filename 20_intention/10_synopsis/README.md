@@ -8,7 +8,13 @@ Le projet interactif 3D en lowpoly permet à plusieurs joueurs de construire des
 Nous souhaitions créer un univers à l'ambiance fantaisique, où l'on peut librement contrôler les sons et les projections afin de s'approprier son propre monde créatif et de se plonger dans un univers musical. Les sons qui y seront ajoutés seront à la fois inquiétants et merveilleux. Ce contraste doit être évident, afin de susciter différentes émotions chez l'utilisateur.
 
 ## Description
-**Étheria** est un projet intéractif 3D en lowpoly qui consiste à construire des villes contres d'autres intéracteurs
+**Étheria** est un projet interactif 3D en low-poly qui consiste à construire des défenses pour les pierres d’Étheria respectives, puis à attaquer les pierres des adversaires. Il s’agit d’un jeu au tour par tour qui permet aux joueurs de créer leurs propres villes et défenses, tout en menant des attaques stratégiques contre leurs adversaires. Le jeu se déroule dans un univers fantastique et le style graphique est inspiré du low-poly. De plus, ces visuels low-poly inspirent des sons 8 bits qui joueront un rôle important dans l'expérience du jeu.
+
+Le jeu se situe dans un environnement sandbox où deux joueurs peuvent placer leurs défenses. La phase de défense implique le placement de petites figurines créées par impression 3D et dotées de codes ArUco. Lorsqu'elles sont placées sur la table, ces figurines génèrent une version numérique de l’objet dans le jeu. Chaque figurine a des fonctions spécifiques : certaines attaquent, tandis que d'autres défendent, créant ainsi de nombreuses opportunités stratégiques.
+
+Ensuite, lors de la phase d'attaque, chaque joueur, à son tour, pourra attaquer ou utiliser différents pouvoirs pour essayer de détruire la pierre d’Étheria adverse. Le premier joueur à détruire la pierre d’Étheria de l’autre gagne la partie.
+
+L'objectif ultime du projet est de créer un sentiment de compétition, d'excitation et de satisfaction pour les deux joueurs.
 
 <!-- ## Références
 
