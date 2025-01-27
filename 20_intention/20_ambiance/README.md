@@ -8,8 +8,10 @@ Conçu pour les amateurs de compétition, Etheria encourage les joueurs à déve
 
 <!-- Ici mettre tous les documents et références associés à l'établissement de l'ambiance du projet   -->
 ## Ambiance Sonores
-[Ambiance Exemple 01](https://youtu.be/_vIWEUwRDTs)
+[Ambiance Exemple 01](https://youtu.be/2Mg6b0LJfM8?list=PLdsGes2mFh92eHpOZVJQgoubb6rF0CcvU)
+[Ambiance Exemple 02](https://www.youtube.com/watch?v=5bn3Jmvep1k)
 
 <!-- ## Références -->
-
+<!--
 [Ambiance](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/30_ambiances/)
+-->
