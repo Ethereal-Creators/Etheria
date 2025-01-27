@@ -13,15 +13,15 @@
 ```mermaid
 graph TD
     A[Retour en mode veille] --> x[Menu]
-    x --> N
-    x --> B[veille]
-    B[commencer] --> C[Interaction]
+    x --> B[commencer]
+    x --> N[quitter]
+    B --> C[Interaction]
     C --> F[résultat sur l'écran]
     F --> M[progression phase attaque]
     M --> U[Terminer]
     U --> H[recommencer]
     H --> x
-    U --> N[quitter]
+    U --> N
     N --> A
 ```
 
