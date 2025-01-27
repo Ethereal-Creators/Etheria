@@ -8,7 +8,7 @@ flowchart TD
         n11 -- Câble XLR --> n3
     end
 
-    %% CONTRÔLE %%
+    %% CONTRÔLES %%
     subgraph Contrôle
         n1 -- Câble Ethernet --> n3["💻 Ordinateur"]
         n3 --> n10["🖥️ Écran, Clavier et Souris"]
