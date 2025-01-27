@@ -9,8 +9,8 @@ Nous souhaitions créer un univers à l'ambiance fantaisique, où l'on peut libr
 ## Description
 **Étheria** est un projet intéractif 3D en lowpoly qui consiste à construire des villes contres d'autres intéracteurs
 
-< ! -- ## Références
+<!-- ## Références
 
 * [Concept](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/10_idee/10_concept/)
 * [Motivation](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/10_idee/30_motivations/)
-* [Pitch](https://tim-montmorency.com/582523-gestion/#/contenus/4_faisabilite/20_pitch/) -- >
+* [Pitch](https://tim-montmorency.com/582523-gestion/#/contenus/4_faisabilite/20_pitch/) -->
