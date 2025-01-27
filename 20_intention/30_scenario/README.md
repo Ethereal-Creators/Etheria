@@ -1,14 +1,14 @@
 # Scénario
 
 <!-- Ici mettre tous les documents et références concernant la scéanrisation de l'expérience   -->
-
+<!--
 * Tous les verbes disponibles à vos interacteurs
 
 * Tous les objets sur lesquels chaque verbe peut agir et comment ils le font
 
 * Actions émergentes que vous aimeriez que vos interacteurs effectuent
 
-* Toutes les façons que les interacteurs peuvent faire progresser l’expérience
+* Toutes les façons que les interacteurs peuvent faire progresser l’expérience-->
 
 ```mermaid
 graph TD
