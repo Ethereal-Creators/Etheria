@@ -13,13 +13,21 @@
 ```mermaid
 graph TD
     A[Retour en mode veille] --> x[Menu]
-    x --> B[commencer]
-    x --> N[quitter]
-    B --> C[Interaction]
-    C --> F[résultat sur l'écran]
-    F --> M[progression phase attaque]
-    M --> U[Terminer]
-    U --> H[recommencer]
+    x --> B[Commencer]
+    x --> N[Quitter]
+    B --> id1{Interaction avec les figures?}
+    id1 --Oui--> F[Résultat sur l'écran]
+    C --Non--> B[Commencer]
+    F --> id2{Plus d'interaction avec figure?}
+    id2 --Non--> M[Progression phase attaque]
+    id2 --Oui--> F
+    M --> id3{Tour d'agir?}
+    id3 --Oui--> K[Agir]
+    id3 --Non--> id3
+    K --> id4{Fin de partie?}
+    id4 --Oui--> U[Terminer]
+    id4 --Non--> id3
+    U --> H[Recommencer]
     H --> x
     U --> N
     N --> A
