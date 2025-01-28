@@ -1,5 +1,5 @@
 # Synoptique
-```mermaid
+```
 flowchart TD
     %% AUDIO %%
     subgraph Audio
