@@ -16,6 +16,7 @@ graph TD
     x --> B[Commencer]
     x --> N[Quitter]
     B --> id1{Interaction avec les figures?}
+    id1 --Non--> B
     id1 --Oui--> F[Résultat sur l'écran]
     F --> id2{Plus d'interaction avec figure?}
     id2 --Non--> M[Progression phase attaque]
