@@ -61,27 +61,48 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A[💻 PC] -->|🔌 Cable USB| B(🎶 Carte de son)
-    A -->|🔌 Cable USB avec une extension| C(📷Camera)
-    B -->|🎧 Cable XLR| D(🔊 Haut-Parleur)
-    B --> E(🔊 Haut-Parleur)
-    A -->|📺 Cable HDMI| F(Projecteur)
-    G[🔋 Power Supply] --> A
+    subgraph Power [Alimentation]
+        G[🔋 Power Supply]
+    end
+
+    subgraph Devices [Appareils]
+        A[💻 PC]
+        B(🎶 Carte de son)
+        C📷(Camera)
+        F(Projecteur)
+    end
+
+    subgraph Speakers [Haut-Parleurs]
+        D(🔊 Haut-Parleur)
+        E(🔊 Haut-Parleur)
+    end
+
+    %% Connections
+    A -->|🔌 Cable USB| B
+    A -->|🔌 Cable USB avec une extension| C
+    B -->|🎧 Cable XLR| D
+    B --> E
+    A -->|📺 Cable HDMI| F
+    G --> A
     G --> F
     G --> C
 
     %% Styling
-    style A fill:#4CAF50,stroke:#ffffff,stroke-width:2px
-    style B fill:#2196F3,stroke:#ffffff,stroke-width:2px
-    style C fill:#FF9800,stroke:#ffffff,stroke-width:2px
-    style D fill:#9C27B0,stroke:#ffffff,stroke-width:2px
-    style E fill:#9C27B0,stroke:#ffffff,stroke-width:2px
-    style F fill:#03A9F4,stroke:#ffffff,stroke-width:2px
-    style G fill:#607D8B,stroke:#ffffff,stroke-width:2px
+    style A fill:#4CAF50,stroke:#ffffff,stroke-width:2px,stroke-dasharray: 5, 5
+    style B fill:#2196F3,stroke:#ffffff,stroke-width:2px,stroke-dasharray: 5, 5
+    style C fill:#FF9800,stroke:#ffffff,stroke-width:2px,stroke-dasharray: 5, 5
+    style D fill:#9C27B0,stroke:#ffffff,stroke-width:2px,stroke-dasharray: 5, 5
+    style E fill:#9C27B0,stroke:#ffffff,stroke-width:2px,stroke-dasharray: 5, 5
+    style F fill:#03A9F4,stroke:#ffffff,stroke-width:2px,stroke-dasharray: 5, 5
+    style G fill:#607D8B,stroke:#ffffff,stroke-width:2px,stroke-dasharray: 5, 5
 
-    classDef centralNode fill:#4CAF50,stroke:#ffffff,stroke-width:2px;
-    class A centralNode;
-    class B,E,D centralNode;
+    %% Subgraph Styling
+    class Power fill:#607D8B,stroke:#ffffff,stroke-width:2px;
+    class Devices fill:#4CAF50,stroke:#ffffff,stroke-width:2px;
+    class Speakers fill:#9C27B0,stroke:#ffffff,stroke-width:2px;
+
+    %% Node Shapes
+    class A,B,C,D,E,F,G roundrect;
 ```
 ## Références
 
