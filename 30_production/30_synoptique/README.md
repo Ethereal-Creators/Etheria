@@ -68,7 +68,7 @@ flowchart TD
     subgraph Devices [Appareils]
         A[💻 PC]
         B(🎶 Carte de son)
-        C📷(Camera)
+        C(📷Camera)
         F(Projecteur)
     end
 
