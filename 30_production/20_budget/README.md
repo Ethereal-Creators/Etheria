@@ -3,7 +3,6 @@
 | **Description**             | **Catégorie** | **Quantité** | **Coût unitaire** | **Montant** | **Liens** |
 |-----------------------------|---------------|--------------|-------------------|-------------|----------|
 | Table              | Équipement    |             |                   | 0 $         |          |
-| Cartes        | Équipement    | 20           | 11 $              | 22       | [Lien](https://www.amazon.ca/-/fr/gp/product/B09Y1PL5GH/ref=ox_sc_act_title_1?smid=A2DGLVBBDAJTOF&th=1) |
 | Équerres d'angles           | Équipement    | 3            | 24 $              | 72 $        | [Lien](https://www.amazon.ca/gp/product/B09WHCKS3P/?th=1) |
 | ERYONE PLA Glow in the dark | Décoration    | 2            | 34 $              | 68 $        | [Lien](https://www.amazon.ca/dp/B0BBDYSQ14/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B0BBDYSQ14&pd_rd_w=UDLm7&content-id=amzn1.sym.516c2169-755e-413a-a38a-68230f4ab66f&pf_rd_p=516c2169-755e-413a-a38a-68230f4ab66f&pf_rd_r=353WR54VF0VPZWZRZZ0N&pd_rd_wg=yV00x&pd_rd_r=a9b2b8bc-abaa-4031-8e5e-0d3206bfeb2d&s=office&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw) |
 | TRONXY PLA Glow in the dark | Décoration    | 1            | 31 $              | 31 $        | [Lien](https://www.amazon.ca/-/fr/Filament-matériau-imprimante-changement-arc-en-ciel/dp/B0BPC7QRYW/ref=pd_sbs_d_sccl_4_3/141-0444918-1252260?pd_rd_w=5DyCj&content-id=amzn1.sym.548e628b-1a29-4955-b8b2-cd4ff764ebc9&pf_rd_p=548e628b-1a29-4955-b8b2-cd4ff764ebc9&pf_rd_r=Y3DAQ99H4779YZVVCDCA&pd_rd_wg=zv7Fz&pd_rd_r=9db453d8-71a3-4b77-81d3-b1b273256104&pd_rd_i=B0BPC7QRYW&th=1) |
