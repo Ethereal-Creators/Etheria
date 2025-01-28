@@ -9,9 +9,11 @@
 * Câbles HDMI x4
 * HDMI Extender x2
 * Caméra : Logi HD 1080p x1
+* Table
 
 ## Non fournis :
-* extension USB
+
+* Extension USB
 
 ## Référence
 
