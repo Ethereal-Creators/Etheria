@@ -1,20 +1,21 @@
 # Synopsis
-Le projet interactif 3D en lowpoly permet à plusieurs joueurs de construire des villes tout en affrontant d'autres participants dans un environnement compétitif. Chaque joueur doit gérer ses ressources et stratégies pour développer sa ville tout en perturbant celles de ses adversaires.
+Le jeu intéractif en pixel art est un jeu de défense permettant aux intéracteurs d'incarner des joueurs et défendre la pierre d'Étheria de vagues d'ennemies. Survivre et collaboration sont les mots du jeu.
 
 ## Concept
-Étheria est un jeu interactif dans lequel deux joueurs s'affrontent dans un environnement compétitif pour construire leur ville pour ensuite détruire celles de leurs adversaires. Chaque joueur commence avec un terrain de base et des ressources limitées. Ils doivent gérer leur production et leur économie, tout en prenant soin de défendre leur ville des attaques adverses et en perturbant celles de l'autre joueur.
+Étheria est un jeu interactif dans lequel jusqu'a cinq joueurs doivent protéger le crystal d'Etheria des attaques de créatures fantastiques.
 
 ## Intention de départ 
-Nous souhaitions créer un univers fantastique et offrir une expérience où le joueur se sent à la fois créateur et excité par la compétition avec son adversaire. Une expérience compétitive et amusante.
+Nous souhaitions créer un univers fantastique et offrir une expérience où le ou les joueurs peuvent collaborer dans une seule cause importante, la protection de la pierre d'Étheria. Cette cause fera vivre des emotions de comraderie et de collaboration chez l'intéracteur.
 
 ## Description
-**Étheria** est un projet interactif 3D en low-poly qui consiste à construire des défenses pour les pierres d’Étheria respectives, puis à attaquer les pierres des adversaires. Il s’agit d’un jeu au tour par tour qui permet aux joueurs de créer leurs propres villes et défenses, tout en menant des attaques stratégiques contre leurs adversaires. Le jeu se déroule dans un univers fantastique et le style graphique est inspiré du low-poly. De plus, ces visuels low-poly inspirent des sons 8 bits qui joueront un rôle important dans l'expérience du jeu.
+**Étheria** est un projet interactif en pixel qui consiste à utiliser des figures/pions, puis à défendre la pierre d'ennemies en vagues. Il s’agit d’un jeu de plusieurs manche qui permet aux joueurs de créer leurs propres villes et défenses, tout en menant des attaques stratégiques contre leurs adversaires. Le jeu se déroule dans un univers fantastique et le style graphique est inspiré du low-poly. De plus, ces visuels low-poly inspirent des sons 8 bits qui joueront un rôle important dans l'expérience du jeu.
 
 Le jeu se situe dans un environnement sandbox où deux joueurs peuvent placer leurs défenses. La phase de défense implique le placement de petites figurines créées par impression 3D et dotées de codes ArUco. Lorsqu'elles sont placées sur la table, ces figurines génèrent une version numérique de l’objet dans le jeu. Chaque figurine a des fonctions spécifiques : certaines attaquent, tandis que d'autres défendent, créant ainsi de nombreuses opportunités stratégiques.
 
 Ensuite, lors de la phase d'attaque, chaque joueur, à son tour, pourra attaquer ou utiliser différents pouvoirs pour essayer de détruire la pierre d’Étheria adverse. Le premier joueur à détruire la pierre d’Étheria de l’autre gagne la partie.
+,'m 
 
-L'objectif ultime du projet est de créer un sentiment de compétition, d'excitation et de satisfaction pour les deux joueurs.
+L'objectif ultime du projet est de créer un sentiment de comraderie, d'excitation et de collaborations chez les joueurs.
 
 <!-- ## Références
 
