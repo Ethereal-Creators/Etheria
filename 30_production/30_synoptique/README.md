@@ -38,13 +38,17 @@ flowchart TD
     style F fill:#03A9F4,stroke:#ffffff,stroke-width:2px,stroke-dasharray: 5, 5
     style G fill:#607D8B,stroke:#ffffff,stroke-width:2px,stroke-dasharray: 5, 5
 
-    %% Subgraph Styling
+  %% Subgraph Styling
     class Power fill:#607D8B,stroke:#ffffff,stroke-width:2px;
     class Devices fill:#4CAF50,stroke:#ffffff,stroke-width:2px;
     class Speakers fill:#9C27B0,stroke:#ffffff,stroke-width:2px;
 
     %% Node Shapes
     class A,B,C,D,E,F,G roundrect;
+
+    %% Arrowheads & Font Sizes
+    linkStyle 0,1,2,3,4,5 stroke:#000000,stroke-width:2px,fill:none;
+    class A,B,C,D,E,F,G font-size:14px;
 ```
 
 ```
