@@ -26,7 +26,7 @@ graph TD
 ```
 
 ## Progression
-L'utilisateur fait progresser l'expérience en jouant avec les faces des cubes pour ajouter des sons et des effets pour leur donner un produit final qui leur est satisfaisant.
+Chaque utilisateur fait progresser l'expérience en jouant à tour de rôle avec les les cartes qui sont placés devant eux qui ajoute des sons et des effets pour leur donner un produit final qui leur est satisfaisant lorsqu'elles sont détectées.
 
 <!--
 ## Références
