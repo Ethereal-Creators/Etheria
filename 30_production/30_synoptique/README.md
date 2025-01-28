@@ -61,14 +61,27 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A[PC] -->|Cable USB| B(Carte de son)
-    A --> |Cable USB avec une extension| C(Camera)
-    B--> |Cable XLR| D(Haut-Parleur)
-    B--> E(Haut-Parleur)
-   A--> |Cable HDMI|F(Projecteur)
-   G(Power Supply)-->A 
-   G-->F
-    G-->C
+    A[💻 PC] -->|🔌 Cable USB| B(🎶 Carte de son)
+    A -->|🔌 Cable USB avec une extension| C(📷Camera)
+    B -->|🎧 Cable XLR| D(🔊 Haut-Parleur)
+    B --> E(🔊 Haut-Parleur)
+    A -->|📺 Cable HDMI| F(Projecteur)
+    G[🔋 Power Supply] --> A
+    G --> F
+    G --> C
+
+    %% Styling
+    style A fill:#4CAF50,stroke:#ffffff,stroke-width:2px
+    style B fill:#2196F3,stroke:#ffffff,stroke-width:2px
+    style C fill:#FF9800,stroke:#ffffff,stroke-width:2px
+    style D fill:#9C27B0,stroke:#ffffff,stroke-width:2px
+    style E fill:#9C27B0,stroke:#ffffff,stroke-width:2px
+    style F fill:#03A9F4,stroke:#ffffff,stroke-width:2px
+    style G fill:#607D8B,stroke:#ffffff,stroke-width:2px
+
+    classDef centralNode fill:#4CAF50,stroke:#ffffff,stroke-width:2px;
+    class A centralNode;
+    class B,E,D centralNode;
 ```
 ## Références
 
