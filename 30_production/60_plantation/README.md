@@ -1,7 +1,8 @@
 # Plantation
-![grandstudio](grand_studio_cad_instrumentum.png)
-![plantation de haut](/Assets/images/plantation_version_01.jpg)
-<!--![simulation_devant](simulation_devant.png)
+
+![plantation de haut](/Assets/images/plantation_version_02.jpg)
+<!--![grandstudio](grand_studio_cad_instrumentum.png)
+![simulation_devant](simulation_devant.png)
 ![simulation_top](simulation_top.png)-->
 
 <!--
