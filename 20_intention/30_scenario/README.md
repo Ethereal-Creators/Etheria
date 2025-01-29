@@ -22,7 +22,7 @@ graph TD
     M --Oui--> K[Prochaine Manche]
     M --Non--> U[Terminer]
     K --> id2
-    U --> B
+    U --> A
     A --> x
 ```
 
