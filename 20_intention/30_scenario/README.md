@@ -14,9 +14,8 @@
 graph TD
 
     x[Intéracteur] --> id1{Interaction avec les figures?}
-    id1 --non--> A[Retour en mode veille]
+    id1 --Non--> A[Retour en mode veille]
     id1 --Oui--> B[Commencer] 
-    id1 --Non--> id1
     B --Oui--> F[Commencement du jeu]
     F --> id2{Utiliser la figure pour attaquer?}
     id2 --Non--> M[Ennemi éliminés?]
@@ -26,7 +25,7 @@ graph TD
     id3 --Non--> U[Terminer]
     K --> id2
     U --> B
-    A --> X
+    A --> x
 ```
 
 ## Progression
