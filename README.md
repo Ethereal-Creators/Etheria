@@ -1,5 +1,7 @@
 # Etheria
-Le projet interactif 3D en lowpoly permet à plusieurs joueurs de construire des villes tout en affrontant d'autres participants dans un environnement compétitif. Chaque joueur doit gérer ses ressources et stratégies pour développer sa ville tout en perturbant celles de ses adversaires.
+**Étheria** est un projet interactif en pixel qui consiste à utiliser des figures/pions, puis à défendre la pierre de vagues d'ennemies. Il s’agit d’un jeu de plusieurs manches qui permet aux joueurs d'incarner des figures et au fil de celle-ci pourront obtenir des "power-up" et verront aussi la difficulté augmenté. Le jeu se déroule dans un univers fantastique et le style graphique est inspiré du pixel art. De plus, ces visuels pixel art inspirent des sons 8 bits qui joueront un rôle important dans l'expérience du jeu.
+
+L'objectif ultime du projet est de créer un sentiment de comraderie, d'excitation et de collaborations chez les joueurs.
 
 ## Devrait être présent sur cette page:
 
