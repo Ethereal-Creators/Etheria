@@ -17,12 +17,10 @@ graph TD
     id1 --Non--> A[Retour en mode veille]
     id1 --Oui--> B[Commencement du jeu] 
     B --> id2{Utiliser la figure pour attaquer?}
-    id2 --Non--> M[Ennemi éliminés?]
+    id2 --Non--> M{Pierre protégé ?}
     id2 --Oui--> M
-    M --Non--> id2
-    M --Oui--> id3{Pierre protégé ?}
-    id3 --Oui--> K[Prochaine Manche]
-    id3 --Non--> U[Terminer]
+    M --Oui--> K[Prochaine Manche]
+    M --Non--> U[Terminer]
     K --> id2
     U --> B
     A --> x
