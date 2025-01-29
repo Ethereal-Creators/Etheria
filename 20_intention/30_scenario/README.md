@@ -12,25 +12,21 @@
 
 ```mermaid
 graph TD
-    A[Retour en mode veille] --> x[Menu]
-    x --> B[Commencer]
-    x --> N[Quitter]
-    B --> id1{Interaction avec les figures?}
-    id1 --Non--> B
-    id1 --Oui--> F[Résultat sur l'écran]
-    F --> id2{Plus d'interaction avec figure?}
-    id2 --Non--> M[Progression phase attaque]
-    id2 --Oui--> F
-    M --> id3{Tour d'agir?}
-    id3 --Oui--> K[Agir]
-    id3 --Non--> id3
-    K --> id4{Fin de partie?}
-    id4 --Oui--> U[Terminer]
-    id4 --Non--> id3
-    U --> H[Recommencer]
-    H --> x
-    U --> N
-    N --> A
+
+    x[Intéracteur] --> id1{Interaction avec les figures?}
+    id1 --non--> A[Retour en mode veille]
+    id1 --Oui--> B[Commencer] 
+    id1 --Non--> id1
+    B --Oui--> F[Commencement du jeu]
+    F --> id2{Utiliser la figure pour attaquer?}
+    id2 --Non--> M[Ennemi éliminés?]
+    id2 --Oui--> M
+    M --Oui--> id3{Pierre protégé ?}
+    id3 --Oui--> K[Prochaine Manche]
+    id3 --Non--> U[Terminer]
+    K --> id2
+    U --> B
+    A --> X
 ```
 
 ## Progression
