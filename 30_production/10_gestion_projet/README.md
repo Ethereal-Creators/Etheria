@@ -22,4 +22,15 @@
 | 7       | 10-14 Mars    | Réalisation du projet final                     | Rigueur, esprit d’équipe et débrouillardise. Pratique générale. MARDI (MIDI) et MERCREDI (PM) : Présentation informelle aux élèves du cours d’œuvre et dispositif multimédia en exposition. Mise en ligne des projets sur site Web. |
 | 8       | 17-21 Mars    | Documentation finale et archivage               | LUNDI au VENDREDI : Présentation et documentation des projets. VENDREDI MATIN : Évaluation sommative de la contribution individuelle au travail d’équipe. VENDREDI : Démontage et rangement. |
 
+```mermaid
+timeline
+    semaine 1 : "Trouver une idée de projet / Réalisation de la préproduction"
+    semaine 2 : "Réalisation de la préproduction / production de la vidéo d’intention"
+    semaine 3 : "Commencer le code / Commencer la maquette / Mise en ligne de la vidéo d’intention "
+    semaine 4 : "Réaliser la maquette / Finir le code"
+    semaine 5 : "Commencer les tests / Correction des feedbacks de la maquette"
+    semaine 6 : "Commencer l'installation finale"
+    semaine 7 : "Finir l'installation finale / Test de qualité / GitHub complet"
+    semaine 8 : "Semaine d'évaluation / Démontage de l'installation / Documentation finale et archivage "
+```
 
