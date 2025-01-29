@@ -19,6 +19,7 @@ graph TD
     B --> id2{Utiliser la figure pour attaquer?}
     id2 --Non--> M[Ennemi éliminés?]
     id2 --Oui--> M
+    M --Non--> id2
     M --Oui--> id3{Pierre protégé ?}
     id3 --Oui--> K[Prochaine Manche]
     id3 --Non--> U[Terminer]
