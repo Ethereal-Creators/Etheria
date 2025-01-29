@@ -15,9 +15,8 @@ graph TD
 
     x[Intéracteur] --> id1{Interaction avec les figures?}
     id1 --Non--> A[Retour en mode veille]
-    id1 --Oui--> B[Commencer] 
-    B --Oui--> F[Commencement du jeu]
-    F --> id2{Utiliser la figure pour attaquer?}
+    id1 --Oui--> B[Commencement du jeu] 
+    B --> id2{Utiliser la figure pour attaquer?}
     id2 --Non--> M[Ennemi éliminés?]
     id2 --Oui--> M
     M --Oui--> id3{Pierre protégé ?}
