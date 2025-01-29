@@ -1,6 +1,6 @@
 # Ambiance
 
- Etheria est animé par une esthétique unique, mêlant un style artistique 2d minimaliste à une ambiance sonore rétro envoûtante, inspirée des classiques 8-bit. Chaque détail, des textures aux effets sonores, contribue à créer une expérience immersive.
+ Etheria est animé par une esthétique unique, mêlant un style pixel art à une ambiance sonore rétro envoûtante, inspirée des classiques 8-bit. Chaque détail, des textures aux effets sonores, contribue à créer une expérience immersive.
 
 Conçu pour les amateurs de jeu de survie, Etheria encourage les joueurs à développer leur esprit tactique tout en cultivant le plaisir du jeu. Que ce soit à travers des combats intenses, ou des stratégies minutieusement élaborées, chaque partie promet un défi renouvelé, destiné à protéger le crystal d'Étheria.
 
