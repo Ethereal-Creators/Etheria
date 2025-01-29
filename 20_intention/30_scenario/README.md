@@ -27,7 +27,7 @@ graph TD
 ```
 
 ## Progression
-Chaque utilisateur fait progresser l'expérience en jouant à tour de rôle avec les les cartes qui sont placés devant eux qui ajoute des sons et des effets pour leur donner un produit final qui leur est satisfaisant lorsqu'elles sont détectées.
+Chaque utilisateur fait progresser l'expérience en jouant et protégeant la pierre d'Etheria avec les pions/figures qui sont placés sur un table à coté. Ajouté des sons et des effets, cela leur donnera une expérience finale qui leur est satisfaisant.
 
 <!--
 ## Références
