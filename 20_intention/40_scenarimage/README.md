@@ -1,8 +1,8 @@
 # Scénarimage
 
 <!-- Ici mettre tous les documents et références associés au scénarimage  -->
-![scenarimage etheria 01](/Assets/images/scenarimagev2_01.png)
-![scenarimage etheria 01](/Assets/images/scenarimagev2_02.png)
+![scenarimage etheria 01](../../Assets/images/scenarimagev2_01.png)
+![scenarimage etheria 01](../..Assets/images/scenarimagev2_02.png)
 
 
 <!--
