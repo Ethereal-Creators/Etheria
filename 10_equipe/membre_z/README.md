@@ -1,6 +1,7 @@
 # Maik Hamel
 
-<img src="maik_00000.jpg" alt="maik" width="720"/>
+<!--<img src="maik_00000.jpg" alt="maik" width="720"/>-->
+![Maïk](maik_00000.jpg)
 
  ## Réalisations
 

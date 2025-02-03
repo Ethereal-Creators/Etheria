@@ -1,6 +1,7 @@
 # Joshua Gonzalez-Barrera
 
-<img src="./josh_00000.jpg" alt="josh" width="720"/>
+<!--<img src="./josh_00000.jpg" alt="josh" width="720"/>-->
+![Josh](./josh_00000.jpg)
 
  ## Réalisations
 

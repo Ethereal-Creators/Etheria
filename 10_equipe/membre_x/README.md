@@ -1,6 +1,7 @@
 # Michael Un Dupré
 
-<img src="michael_00000.jpg" alt="michael" width="720"/>
+<!--<img src="michael_00000.jpg" alt="michael" width="720"/>-->
+![Michael](./michael_00000.jpg)
 
  ## Réalisations
 

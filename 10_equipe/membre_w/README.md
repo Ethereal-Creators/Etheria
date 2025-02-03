@@ -1,6 +1,7 @@
 # Victor Gileau
 
-<img src="vic_00000.jpg" alt="vic" width="720"/>
+<!--<img src="vic_00000.jpg" alt="vic" width="720"/>-->
+![Victor](./vic_00000.jpg)
 
  ## Réalisations
 

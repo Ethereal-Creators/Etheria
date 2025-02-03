@@ -1,7 +1,7 @@
 # Pierre-Luc Proulx
 
-<img src="pierreluc_00000.jpg" alt="pierreluc" width="720"/>
-
+<!--<img src="pierreluc_00000.jpg" alt="pierreluc" width="720"/>-->
+![Pierre-Luc](pierreluc_00000.jpg)
 
  ## Réalisations
 
