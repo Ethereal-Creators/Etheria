@@ -3,8 +3,7 @@
 
 L'objectif ultime du projet est de créer un sentiment de camaraderie, d'excitation et de collaborations chez les joueurs.
 
-![Video D'intention](https://youtu.be/TbhAbEu8xmc?si=Nri9u0jfbUMd7SoS)
-
+<iframe width="1266" height="712" src="https://www.youtube.com/embed/TbhAbEu8xmc" title="video_explicative_etheria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Devrait être présent sur cette page:
 
 * Titre
