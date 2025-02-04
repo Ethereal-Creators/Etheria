@@ -3,7 +3,7 @@
 
 L'objectif ultime du projet est de créer un sentiment de camaraderie, d'excitation et de collaborations chez les joueurs.
 
-https://youtu.be/TbhAbEu8xmc?si=Nri9u0jfbUMd7SoS
+![Video D'intention](https://youtu.be/TbhAbEu8xmc?si=Nri9u0jfbUMd7SoS)
 
 ## Devrait être présent sur cette page:
 
