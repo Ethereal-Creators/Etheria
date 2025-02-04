@@ -4,7 +4,7 @@
 
 Conçu pour les amateurs de jeu de survie, Etheria encourage les joueurs à développer leur esprit tactique tout en cultivant le plaisir du jeu. Que ce soit à travers des combats intenses, ou des stratégies minutieusement élaborées, chaque partie promet un défi renouvelé, destiné à protéger le crystal d'Étheria.
 
-![Alt moodboard](../../Assets/moodboard_etheria.png)
+![Alt moodboard](../../Assets/images/etheria_moodboard_02.jpg)
 
 <!-- Ici mettre tous les documents et références associés à l'établissement de l'ambiance du projet   -->
 ## Ambiance Sonores
