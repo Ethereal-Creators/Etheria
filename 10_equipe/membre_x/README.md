@@ -9,7 +9,7 @@
 
  j'ai réalisé les spritesheets des projectiles pour notre jeu unity
 
- 
+ ![Alt Text](./Assets/images/image_doc_michael/arrow_sprite.gif)
 
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
 
