@@ -23,7 +23,10 @@
 
  Réalisation d'un test sur Unity où que le joueur peut ce déplacer et tirer des ennemies
 
- 
+  ![Alt Text](../../Assets/images/image_doc_michael/controlleur_joueur_archer.png)
+  ![Alt Text](../../Assets/images/image_doc_michael/projectile_fleche.png)
+  ![Alt Text](../../Assets/images/image_doc_michael/contact_projectile.png)<
+  
 
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
 
