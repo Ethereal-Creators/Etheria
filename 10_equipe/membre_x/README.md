@@ -7,17 +7,23 @@
 
  ## Semaine 1:
 
- j'ai réalisé les spritesheets des projectiles pour notre jeu unity
+ Réalisation des spritesheets des projectiles pour notre jeu unity
 
- ![Alt Text](../../Assets/images/image_doc_michael/arrow_sprite.gif)
- ![Alt Text](../../Assets/images/image_doc_michael/fleche_explosif_sprite.gif)
- ![Alt Text](../../Assets/images/image_doc_michael/magic-beam_sprite.gif)
- ![Alt Text](../../Assets/images/image_doc_michael/boule_feu-Sheet.png)
- ![Alt Text](../../Assets/images/image_doc_michael/epee_magique-Sheet.png)
- ![Alt Text](../../Assets/images/image_doc_michael/fleche_explosif_sprite-Sheet.png)
- ![Alt Text](../../Assets/images/image_doc_michael/fleche_sprite-Sheet.png)
- ![Alt Text](../../Assets/images/image_doc_michael/magic-beam_sprite-Sheet.png)
- ![Alt Text](../../Assets/images/image_doc_michael/magic_missile_sprite-Sheet.png)
+ ![Gif de la flèche](../../Assets/images/image_doc_michael/arrow_sprite.gif)
+ ![Gif de la flèche explosif](../../Assets/images/image_doc_michael/fleche_explosif_sprite.gif)
+ ![Gif du rayon magique](../../Assets/images/image_doc_michael/magic-beam_sprite.gif)
+ ![spritesheet de la boule de feu](../../Assets/images/image_doc_michael/boule_feu-Sheet.png)
+ ![spritesheet du projectile de l'épée](../../Assets/images/image_doc_michael/epee_magique-Sheet.png)
+ ![spritesheet de la flèche explosif](../../Assets/images/image_doc_michael/fleche_explosif_sprite-Sheet.png)
+ ![spritesheet de la flèche](../../Assets/images/image_doc_michael/fleche_sprite-Sheet.png)
+ ![spritesheet du rayon magique](../../Assets/images/image_doc_michael/magic-beam_sprite-Sheet.png)
+ ![spritesheet du missile magique](../../Assets/images/image_doc_michael/magic_missile_sprite-Sheet.png)
+
+ ## Semaine 2:
+
+ Réalisation d'un test sur Unity où que le joueur peut ce déplacer et tirer des ennemies
+
+ 
 
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
 
