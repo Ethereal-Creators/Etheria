@@ -7,6 +7,7 @@
 
  ### Semaine 1 et 2 
   Pour les deux premieres semaines, je me suis concentré à faire une musique d'ambiance pour la maquette du jeu. Le logiciel (DAW) que j'utilise est Ableton.
+![composition_musique_2025_01_30](https://github.com/user-attachments/assets/85493059-600f-4da6-bf93-279a6bc95848)
 
   
 
