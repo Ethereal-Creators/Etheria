@@ -15,6 +15,11 @@ Tutoriel par [Scott Allen Visual Art](https://www.youtube.com/@ScottAllenvis)
 
 [![Generating & Detecting AR Markers with OpenCV ArUco in TouchDesigner](https://img.youtube.com/vi/oaHM6CtlqQY/0.jpg)](https://www.youtube.com/watch?v=oaHM6CtlqQY)
 
+Première itération (2025-01-24) :
+
+<!--![completer_tutoriel_touchDesigner_ArUco-photo_2025-01-24](../../Assets/images/image_doc_victor/completer_tutoriel_touchDesigner_ArUco-photo_2025-01-24.jpg)-->
+[<img src="../../Assets/images/image_doc_victor/completer_tutoriel_touchDesigner_ArUco-photo_2025-01-24.jpg" width="500"/>](completer_tutoriel_touchDesigner_ArUco-photo_2025-01-24.jpg)
+
 
 ### Semaine 2 :
 
@@ -24,7 +29,13 @@ En utilisant un script en C# avec l'aide de l'extension ["**extOSC**"] (https://
 
 J'ai aussi utilisé le code de [Jacob Alarie Brousseau](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/blob/main/docs/journaux/alariebrousseau_jacob_journal.md) pour le code qui calcule l'angle (plus de détails dans cette ["issus"](https://github.com/Ethereal-Creators/Etheria/issues/5)).
 
+Dans Unity (2025-01-29) :
+
 [![tracking fonctionnel unity avec un code id10 2025 01 29](https://img.youtube.com/vi/-zSgB_mS-zw/0.jpg)](https://www.youtube.com/watch?v=-zSgB_mS-zw)
+
+Dans TouchDesigner (2025-01-29) :
+
+![completer_tutoriel_touchDesigner_ArUco-photo_2025-01-24](../../Assets/images/image_doc_victor/detectionTouch-yoshi_2025-01-29.png)
 
 
 ### Semaine 3 :
