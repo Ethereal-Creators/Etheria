@@ -26,8 +26,12 @@
   ![code pour le controlleur du joueur](../../Assets/images/image_doc_michael/controlleur_joueur_archer.png)
   ![code pour les projectiles](../../Assets/images/image_doc_michael/projectile_fleche.png)
   ![code pour le contact des projectiles](../../Assets/images/image_doc_michael/contact_projectile.png)
-  ![Alt Text](../../Assets/images/image_doc_michael/unity_test.mp4)
-  ![Alt Text](../../Assets/images/image_doc_michael/test_sprite.mp4)
+
+Tutoriel du mouvement par [Gaming with Rafan](https://youtu.be/e7AWtLIH3u8?si=J_QcrePahT2_cVK5)
+Tutoriel des projectiles par [Distorted Pixel Studio](https://youtu.be/8TqY6p-PRcs?si=H_twutaN4FaVgBkz)
+  
+  <!-- ![Alt Text](../../Assets/images/image_doc_michael/unity_test.mp4)
+  ![Alt Text](../../Assets/images/image_doc_michael/test_sprite.mp4)-->
   
 
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
