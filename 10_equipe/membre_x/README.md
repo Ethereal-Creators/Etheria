@@ -25,7 +25,8 @@
 
   ![Alt Text](../../Assets/images/image_doc_michael/controlleur_joueur_archer.png)
   ![Alt Text](../../Assets/images/image_doc_michael/projectile_fleche.png)
-  ![Alt Text](../../Assets/images/image_doc_michael/contact_projectile.png)<
+  ![Alt Text](../../Assets/images/image_doc_michael/contact_projectile.png)
+  ![Alt Text](../../Assets/images/image_doc_michael/)
   
 
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
