@@ -23,10 +23,11 @@
 
  Réalisation d'un test sur Unity où que le joueur peut ce déplacer et tirer des ennemies
 
-  ![Alt Text](../../Assets/images/image_doc_michael/controlleur_joueur_archer.png)
-  ![Alt Text](../../Assets/images/image_doc_michael/projectile_fleche.png)
-  ![Alt Text](../../Assets/images/image_doc_michael/contact_projectile.png)
-  ![Alt Text](../../Assets/images/image_doc_michael/)
+  ![code pour le controlleur du joueur](../../Assets/images/image_doc_michael/controlleur_joueur_archer.png)
+  ![code pour les projectiles](../../Assets/images/image_doc_michael/projectile_fleche.png)
+  ![code pour le contact des projectiles](../../Assets/images/image_doc_michael/contact_projectile.png)
+  ![Alt Text](../../Assets/images/image_doc_michael/unity_test.mp4)
+  ![Alt Text](../../Assets/images/image_doc_michael/test_sprite.mp4)
   
 
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
