@@ -1,7 +1,7 @@
 # Victor Gileau
 
 <!--<img src="vic_00000.jpg" alt="vic" width="720"/>-->
-![Victor](./vic_00000.jpg)
+![Victor Gileau](./vic_00000.jpg)
 
 ## Réalisations
 
@@ -17,11 +17,12 @@ Tutoriel par [Scott Allen Visual Art](https://www.youtube.com/@ScottAllenvis)
 
 Première itération (2025-01-24) :
 
-<!--![completer_tutoriel_touchDesigner_ArUco-photo_2025-01-24](../../Assets/images/image_doc_victor/completer_tutoriel_touchDesigner_ArUco-photo_2025-01-24.jpg)-->
-[<img src="../../Assets/images/image_doc_victor/completer_tutoriel_touchDesigner_ArUco-photo_2025-01-24.jpg" width="500"/>](completer_tutoriel_touchDesigner_ArUco-photo_2025-01-24.jpg)
+![completer_tutoriel_touchDesigner_ArUco-photo_2025-01-24](../../Assets/images/image_doc_victor/completer_tutoriel_touchDesigner_ArUco-photo_2025-01-24.jpg)
 
+---
 
 ### Semaine 2 :
+
 
 Ma réalisation cette semaine est de réussir à recevoir et utiliser les données envoyées par **[TouchDesigner](https://derivative.ca)** dans **[Unity](https://unity.com)**.
 
@@ -37,7 +38,9 @@ Dans TouchDesigner (2025-01-29) :
 
 ![completer_tutoriel_touchDesigner_ArUco-photo_2025-01-24](../../Assets/images/image_doc_victor/detectionTouch-yoshi_2025-01-29.png)
 
+---
 
 ### Semaine 3 :
 
-* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
+
+<!--* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)-->
