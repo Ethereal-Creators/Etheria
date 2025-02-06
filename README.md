@@ -3,7 +3,7 @@
 
 L'objectif ultime du projet est de créer un sentiment de camaraderie, d'excitation et de collaborations chez les joueurs.
 
-[![Video Explicative](../Assets/images/etheria_thumbnail.jpg)](https://youtu.be/1IjlYC9liGM)
+[![Video Explicative](./Assets/images/etheria_thumbnail.jpg)](https://youtu.be/1IjlYC9liGM)
 * ## Bande-annonce
 
 * ## Documentation vidéo de l'installation en action 
