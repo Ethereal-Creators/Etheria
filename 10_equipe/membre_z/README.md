@@ -19,6 +19,9 @@ https://github.com/user-attachments/assets/ac7859fa-0ac5-4f5b-a541-99bf4436850f
 
   
 
- <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
+### Semaine 3
+Pour la troisième semaine, j'ai continué l'avancement de la conception des effets sonores pour la maquette. Je me suis aussi assuré que les sons étaient bien classé dans des dossiers individuels. 
+![Screenshot 2025-02-04 100553](https://github.com/user-attachments/assets/3eb858dc-c4e6-4ee6-9685-da3180e82572)
+![capture_ecran_semaine_3](https://github.com/user-attachments/assets/f6f28acc-9d55-4bf3-9a2a-ff9e1413eaea)
 
-* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
+
