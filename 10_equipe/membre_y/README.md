@@ -37,6 +37,15 @@
 ![HealingPotion](../../Assets/images/image_doc_pl/HealingPotion.gif)
 ![HealingPotion-Sheet](../../Assets/images/image_doc_pl/HealingPotion-Sheet.png)
 
+- **Potion d'invicinbilité**
+  ![invincibilityPotion](../../Assets/images/image_doc_pl/InvincibilityPotion.gif)
+  ![invincibilityPotion](../../Assets/images/image_doc_pl/InvincibilityPotion-Sheet.png)
+
+  - Bouclier
+  ![Shield](../../Assets/images/image_doc_pl/bubbleshield.gif)
+ ![Shield](../../Assets/images/image_doc_pl/bubbleshield-Sheet.png)
+  
+
 
 ---
 
