@@ -7,6 +7,7 @@
 
 ### Semaine 1
 Réalisation des sprites sheets des personnages et ennemies
+
 ![Mage](../../Assets/images/image_doc_pl/Mage.gif)
 ![Paladin](../../Assets/images/image_doc_pl/paladin.gif)
 ### Semaine 2
