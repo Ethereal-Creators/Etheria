@@ -33,6 +33,11 @@
 - **Nouveaux Sprite Sheets**  
   Création de nouveaux sprites sheets pour enrichir l’univers du jeu, incluant des ennemis supplémentaires et des items à récupérer.
 
+  - Potion de regénération 
+![HealingPotion](../../Assets/images/image_doc_pl/HealingPotion.gif)
+![HealingPotion-Sheet](../../Assets/images/image_doc_pl/HealingPotion-Sheet.png)
+
+
 ---
 
 ### 🗓 **Semaine 3** : Avancement du Gameplay & Modélisation Blender
