@@ -8,8 +8,11 @@
 ### Semaine 1
 Réalisation des sprites sheets des personnages et ennemies
 ![Mage](../../Assets/images/image_doc_pl/Mage.gif)
+![Mage-Sheet](../../Assets/images/image_doc_pl/Mage-Sheet.png)
 ![Paladin](../../Assets/images/image_doc_pl/paladin.gif)
+![Paladin-Sheet](../../Assets/images/image_doc_pl/paladin-Sheet.png)
 ![Archer](../../Assets/images/image_doc_pl/archer.gif)
+![Archer-Sheet](../../Assets/images/image_doc_pl/archer-Sheet.png)
 ### Semaine 2
 Réalisation d'une démo sur Unity où on peut déplacer le personnage et créer des spawner à ennemies qui se dirigent vers le joueur.
 Ainsi réalisé d'autre Sprite Sheets
