@@ -12,29 +12,15 @@
   Conception des sprites sheets pour les personnages et ennemis du jeu.
 
   - **Mage**  
-    ![Mage](../../Assets/images/image_doc_pl/Mage.gif)  # Pierre-Luc Proulx
-
-![Pierre-Luc](pierreluc_00000.jpg)
-
----
-
-## 🎮 **Réalisations**
-
-### 🗓 **Semaine 1** : Création des Sprites Sheets
-
-- **Personnages & Ennemis**  
-  Conception des sprites sheets pour les personnages et ennemis du jeu.
-
-  - **Mage**  
-    ![Mage](../../Assets/images/image_doc_pl/Mage.gif)  
+    ![Mage](../../Assets/images/image_doc_pl/Mag2.gif)  
     ![Mage-Sheet](../../Assets/images/image_doc_pl/Mage-Sheet.png)
 
   - **Paladin**  
-    ![Paladin](../../Assets/images/image_doc_pl/paladin.gif)  
+    ![Paladin](../../Assets/images/image_doc_pl/pala1in.gif)  
     ![Paladin-Sheet](../../Assets/images/image_doc_pl/paladin-Sheet.png)
 
   - **Archer**  
-    ![Archer](../../Assets/images/image_doc_pl/archer.gif)  
+    ![Archer](../../Assets/images/image_doc_pl/archer2.gif)  
     ![Archer-Sheet](../../Assets/images/image_doc_pl/archer-Sheet.png)
 
 ---
