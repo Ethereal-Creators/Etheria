@@ -2,38 +2,53 @@
 
 ![Pierre-Luc](pierreluc_00000.jpg)
 
-## Réalisations
+---
 
-### Semaine 1: Création des Sprites Sheets
+## 🎮 **Réalisations**
+
+### 🗓 **Semaine 1** : Création des Sprites Sheets
 
 - **Personnages & Ennemis**  
-  - Réalisation des sprites sheets pour les personnages principaux et les ennemis.
+  Conception des sprites sheets pour les personnages et ennemis du jeu.
 
-  ![Mage](../../Assets/images/image_doc_pl/Mage.gif)  
-  ![Mage-Sheet](../../Assets/images/image_doc_pl/Mage-Sheet.png)
+  - **Mage**  
+    ![Mage](../../Assets/images/image_doc_pl/Mage.gif)  
+    ![Mage-Sheet](../../Assets/images/image_doc_pl/Mage-Sheet.png)
 
-  ![Paladin](../../Assets/images/image_doc_pl/paladin.gif)  
-  ![Paladin-Sheet](../../Assets/images/image_doc_pl/paladin-Sheet.png)
+  - **Paladin**  
+    ![Paladin](../../Assets/images/image_doc_pl/paladin.gif)  
+    ![Paladin-Sheet](../../Assets/images/image_doc_pl/paladin-Sheet.png)
 
-  ![Archer](../../Assets/images/image_doc_pl/archer.gif)  
-  ![Archer-Sheet](../../Assets/images/image_doc_pl/archer-Sheet.png)
+  - **Archer**  
+    ![Archer](../../Assets/images/image_doc_pl/archer.gif)  
+    ![Archer-Sheet](../../Assets/images/image_doc_pl/archer-Sheet.png)
 
 ---
 
-### Semaine 2: Démo Unity et Nouveaux Sprite Sheets
+### 🗓 **Semaine 2** : Démo Unity & Nouveaux Sprite Sheets
 
 - **Démo Unity**  
-  Création d'une démo dans Unity permettant de déplacer un personnage et générer des ennemis qui se dirigent vers le joueur.
+  Développement d'une démo interactive dans Unity permettant de déplacer un personnage et de créer des spawners pour les ennemis qui suivent le joueur.
 
 - **Nouveaux Sprite Sheets**  
-  Réalisation de nouveaux sprites sheets pour plus d'ennemis et des items.
+  Création de nouveaux sprites sheets pour enrichir l’univers du jeu, incluant des ennemis supplémentaires et des items à récupérer.
 
 ---
 
-### Semaine 3: Avancements du Gameplay et Modélisation Blender
+### 🗓 **Semaine 3** : Avancement du Gameplay & Modélisation Blender
 
-- **Avancement du Gameplay**  
-  Développement important du code gameplay dans Unity.
+- **Développement du Gameplay**  
+  Amélioration du code du gameplay dans Unity avec de nouvelles mécaniques, améliorant ainsi l’expérience de jeu.
 
 - **Modélisation des Figurines**  
-  Début de la modélisation des figurines dans Blender.
+  Début du travail de modélisation 3D des figurines dans Blender pour ajouter un aspect visuel plus immersif au jeu.
+
+---
+
+### 🏆 **Mon travail en images**
+
+![Gameplay](../../Assets/images/image_doc_pl/gameplay-demo.gif)  
+*Extrait de la démo Unity où le personnage interagit avec l’environnement et les ennemis.*
+
+---
+
