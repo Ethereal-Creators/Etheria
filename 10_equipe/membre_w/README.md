@@ -26,7 +26,7 @@ Première itération (2025-01-24) :
 
 Ma réalisation cette semaine est de réussir à recevoir et utiliser les données envoyées par **[TouchDesigner](https://derivative.ca)** dans **[Unity](https://unity.com)**.
 
-En utilisant un script en C# avec l'aide de l'extension ["**extOSC**"] (https://github.com/Iam1337/extOSC). Je me suis aussi beaucoup fier à la documentation de **[Thomas Ouellet Fredericks](https://t-o-f.info/m5_docs/#/unity/extosc/README)**.
+En utilisant un script en C# avec l'aide de l'extension ["**extOSC**"](https://github.com/Iam1337/extOSC). Je me suis aussi beaucoup fier à la documentation de **[Thomas Ouellet Fredericks](https://t-o-f.info/m5_docs/#/unity/extosc/README)**.
 
 J'ai aussi utilisé le code de [Jacob Alarie Brousseau](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/blob/main/docs/journaux/alariebrousseau_jacob_journal.md) pour le code qui calcule l'angle (plus de détails dans cette ["issus"](https://github.com/Ethereal-Creators/Etheria/issues/5)).
 
@@ -41,6 +41,12 @@ Dans TouchDesigner (2025-01-29) :
 ---
 
 ### Semaine 3 :
+
+Utilisation de l'installation compéter en équipe pour le test du prototype avec [OSC](https://en.wikipedia.org/wiki/Open_Sound_Control) sur **[Unity](https://unity.com)** avec la librairie ["**extOSC**"](https://github.com/Iam1337/extOSC). Le test était fonctionnel et permis à la modification des données pour une bonne transmission des données dans **[Unity](https://unity.com)**.
+
+Dans Unity (2025-02-06) :
+
+![](../../Assets/images/image_doc_victor/installation_test_2025-02-06.jpeg)
 
 
 <!--* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)-->
