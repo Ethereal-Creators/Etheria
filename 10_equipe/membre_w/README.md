@@ -46,7 +46,11 @@ Utilisation de l'installation compéter en équipe pour le test du prototype ave
 
 Dans Unity (2025-02-06) :
 
-![](../../Assets/images/image_doc_victor/installation_test_2025-02-06.jpeg)
+![installation_test_2025-02-06](../../Assets/images/image_doc_victor/installation_test_2025-02-06.jpeg)
+
+Installation réalisée en équipe qui faisait la projection (n'est pas ma réalisation seulement pour mieux visualiser) (2025-02-06):
+
+![installation_decote_2025-02-06](../../Assets/images/installation_decote_2025-02-06.jpeg)
 
 
 <!--* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)-->
