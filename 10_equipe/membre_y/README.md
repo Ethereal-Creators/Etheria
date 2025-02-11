@@ -45,10 +45,48 @@
 
 ---
 
+### 🗓 **Semaine 4** : Animation des Ennemis et Personnages
+
+- 
+  
+
+-
+
+
+---
+
+### 🗓 **Semaine 5** : Système de Sauvegarde et Chargement du Jeu
+
+-
+ 
+
+-
+
+
+---
+
+### 🗓 **Semaine 6** : Création du Niveau et Intégration des Sons
+
+- 
+
+
+- 
+
+---
+
+### 🗓 **Semaine 7** : 
+
+- 
+
+
+-
+
+
+---
+
 ### 🏆 **Mon travail en images**
 
 ![Gameplay](../../Assets/images/image_doc_pl/gameplay-demo.gif)  
 *Extrait de la démo Unity où le personnage interagit avec l’environnement et les ennemis.*
 
 ---
-
