@@ -53,6 +53,9 @@
     ![Shield](../../Assets/images/image_doc_pl/bubbleshield.gif)  
     ![Shield-Sheet](../../Assets/images/image_doc_pl/bubbleshield-Sheet.png)
 
+    - **Slimes**
+    ![Slimes](../../Assets/images/image_doc_pl/Slimes.gif)
+ ![Slimes-Sheet](../../Assets/images/image_doc_pl/Slimes-Sheet.png)
 ---
 
 ### 🗓 **Semaine 3** : Avancement du Gameplay & Modélisation Blender
