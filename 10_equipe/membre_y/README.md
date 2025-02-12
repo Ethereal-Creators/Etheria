@@ -23,6 +23,10 @@
     ![Archer](../../Assets/images/image_doc_pl/archer2.gif)  
     ![Archer-Sheet](../../Assets/images/image_doc_pl/archer-Sheet.png)
 
+  - **Mouche**
+    ![Fly](../../Assets/images/image_doc_pl/fly.gif)
+    ![Fly-Sheet](../../Assets/images/image_doc_pl/fly-Sheet.png)
+
 ---
 
 ### 🗓 **Semaine 2** : Démo Unity & Nouveaux Sprite Sheets
