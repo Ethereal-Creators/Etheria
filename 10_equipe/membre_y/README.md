@@ -27,6 +27,10 @@
     ![Fly](../../Assets/images/image_doc_pl/fly.gif)
     ![Fly-Sheet](../../Assets/images/image_doc_pl/fly-Sheet.png)
 
+  - **Skeleton**
+   ![Squelette](../../Assets/images/image_doc_pl/Skeleton.gif)
+  ![Squelette](../../Assets/images/image_doc_pl/Skeleton-Sheet.png)
+
 ---
 
 ### 🗓 **Semaine 2** : Démo Unity & Nouveaux Sprite Sheets
