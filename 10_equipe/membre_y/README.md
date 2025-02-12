@@ -23,13 +23,13 @@
     ![Archer](../../Assets/images/image_doc_pl/archer2.gif)  
     ![Archer-Sheet](../../Assets/images/image_doc_pl/archer-Sheet.png)
 
-  - **Mouche**
-    ![Fly](../../Assets/images/image_doc_pl/fly.gif)
+  - **Mouche**  
+    ![Fly](../../Assets/images/image_doc_pl/fly.gif)  
     ![Fly-Sheet](../../Assets/images/image_doc_pl/fly-Sheet.png)
 
-  - **Skeleton**
-   ![Squelette](../../Assets/images/image_doc_pl/Skeleton.gif)
-  ![Squelette](../../Assets/images/image_doc_pl/Skeleton-Sheet.png)
+  - **Skeleton**  
+    ![Squelette](../../Assets/images/image_doc_pl/Skeleton.gif)  
+    ![Squelette-Sheet](../../Assets/images/image_doc_pl/Skeleton-Sheet.png)
 
 ---
 
@@ -53,9 +53,10 @@
     ![Shield](../../Assets/images/image_doc_pl/bubbleshield.gif)  
     ![Shield-Sheet](../../Assets/images/image_doc_pl/bubbleshield-Sheet.png)
 
-    - **Slimes**
-    ![Slimes](../../Assets/images/image_doc_pl/Slimes.gif)
- ![Slimes-Sheet](../../Assets/images/image_doc_pl/Slimes-Sheet.png)
+  - **Slimes**  
+    ![Slimes](../../Assets/images/image_doc_pl/Slimes.gif)  
+    ![Slimes-Sheet](../../Assets/images/image_doc_pl/Slimes-Sheet.png)
+
 ---
 
 ### 🗓 **Semaine 3** : Avancement du Gameplay & Modélisation Blender
@@ -70,40 +71,34 @@
 
 ### 🗓 **Semaine 4** : Animation des Ennemis et Personnages
 
-- 
-  
+- **Animations des Ennemis**  
+  Travail sur les animations des ennemis pour renforcer leur fluidité et leur comportement en jeu.
 
--
-
+- **Animations des Personnages**  
+  Conception d'animations pour les personnages jouables afin d'améliorer leur réactivité.
 
 ---
 
 ### 🗓 **Semaine 5** : Système de Sauvegarde et Chargement du Jeu
 
--
- 
-
--
-
+- **Implémentation d'un système de sauvegarde**  
+  Création d'un système permettant de sauvegarder l'état du jeu et de le charger lors de prochaines sessions de jeu.
 
 ---
 
 ### 🗓 **Semaine 6** : Création du Niveau et Intégration des Sons
 
-- 
+- **Création du Niveau**  
+  Conception et intégration des différents éléments pour le premier niveau du jeu, incluant les décors et les obstacles.
 
-
-- 
+- **Intégration des Sons**  
+  Ajout des effets sonores et de la musique de fond pour améliorer l'immersion du joueur.
 
 ---
 
 ### 🗓 **Semaine 7** : 
 
-- 
-
-
--
-
+- **À compléter**
 
 ---
 
@@ -111,5 +106,3 @@
 
 ![Gameplay](../../Assets/images/image_doc_pl/gameplay-demo.gif)  
 *Extrait de la démo Unity où le personnage interagit avec l’environnement et les ennemis.*
-
-
