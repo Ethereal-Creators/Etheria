@@ -58,6 +58,9 @@ Installation réalisée en équipe qui faisait la projection (n'est pas ma réal
 
 Ajout d'un script [*"winScript"*](https://github.com/Ethereal-Creators/EtheriaKingdom_Uni/blob/main/Etheria_Kingdom/Assets/Scripts/winScript.cs) pour gagner la partie et un [*"failScript"*](https://github.com/Ethereal-Creators/EtheriaKingdom_Uni/blob/main/Etheria_Kingdom/Assets/Scripts/failScript.cs) pour réussir la partie. Permetant d'avoir un réussite et écheque possible pour le jeu.
 
+#### Unity *"winObject"* :
+![unity_failObject_2025-02-17](../../Assets/images/image_doc_victor/unity_winObject_2025-02-17.png)
+
 #### [*"winScript"*](https://github.com/Ethereal-Creators/EtheriaKingdom_Uni/blob/main/Etheria_Kingdom/Assets/Scripts/winScript.cs) :
 ```c#
 using System.Collections;
@@ -131,6 +134,9 @@ public class winScript : MonoBehaviour
     }
 }
 ```
+
+#### Unity *"failObject"* :
+![unity_failObject_2025-02-17](../../Assets/images/image_doc_victor/unity_failObject_2025-02-17.png)
 
 #### [*"failScript"*](https://github.com/Ethereal-Creators/EtheriaKingdom_Uni/blob/main/Etheria_Kingdom/Assets/Scripts/failScript.cs) :
 ```c#
