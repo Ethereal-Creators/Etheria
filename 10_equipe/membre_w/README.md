@@ -52,5 +52,138 @@ Installation réalisée en équipe qui faisait la projection (n'est pas ma réal
 
 ![installation_decote_2025-02-06](../../Assets/images/installation_decote_2025-02-06.jpeg)
 
+---
+
+### Semaine 4 :
+
+Ajout d'un script [*"winScript"*](https://github.com/Ethereal-Creators/EtheriaKingdom_Uni/blob/main/Etheria_Kingdom/Assets/Scripts/winScript.cs) pour gagner la partie et un [*"failScript"*](https://github.com/Ethereal-Creators/EtheriaKingdom_Uni/blob/main/Etheria_Kingdom/Assets/Scripts/failScript.cs) pour réussir la partie. Permetant d'avoir un réussite et écheque possible pour le jeu.
+
+#### [*"winScript"*](https://github.com/Ethereal-Creators/EtheriaKingdom_Uni/blob/main/Etheria_Kingdom/Assets/Scripts/winScript.cs) :
+```c#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Events;
+using UnityEngine.SceneManagement;
+using TMPro;
+using UnityEditor.Rendering;
+
+public class winScript : MonoBehaviour
+{
+
+    //private float timetest = 0.0f;
+    public float timeTilSucces;
+    private float timeWhenWin;
+
+    public float timeTilChangeScene;
+    private float timeWhenChangeScene;
+
+    public GameObject crystalIsActive;
+    public TextMeshProUGUI countDown;
+
+    private float timeDown = 0.0f;
+    private int currentTime = 0;
+
+    private bool winSlowDown = false;
+
+    [SerializeField] UnityEvent gameWin;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        timeWhenWin = Time.time + timeTilSucces;
+        timeWhenChangeScene = Time.time + timeTilChangeScene;
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        timeDown += Time.deltaTime;
+        if (timeDown >= 1f)
+        {
+            timeDown = 0.0f;
+            currentTime++;
+            countDown.text = currentTime.ToString();
+        }
+
+        //time += Time.deltaTime;
+        //source du code : https://discussions.unity.com/t/how-to-check-if-object-is-active/116705
+        if (timeWhenWin <= Time.time)
+        {
+            if (crystalIsActive != null)
+            {
+                winSlowDown = true;
+                gameWin.Invoke();
+                countDown.text = "Win";
+            }
+            timeWhenWin = Time.time + timeTilSucces;
+        }
+        if (winSlowDown == true)
+        {
+            timeTilChangeScene -= Time.deltaTime;
+            if (timeTilChangeScene < 0)
+            {
+                // Permet de changer de scenes
+                SceneManager.LoadScene("Menu");
+                Debug.Log("Win return to start.");
+            }
+        }
+    }
+}
+```
+
+#### [*"failScript"*](https://github.com/Ethereal-Creators/EtheriaKingdom_Uni/blob/main/Etheria_Kingdom/Assets/Scripts/failScript.cs) :
+```c#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Events;
+using UnityEngine.SceneManagement;
+using TMPro;
+using UnityEditor.Rendering;
+
+public class failScript : MonoBehaviour
+{
+
+    public float timeTilFail;
+    private float timeWhenFail;
+
+    public GameObject crystalIsActive;
+    public GameObject failPanel;
+
+    public TextMeshProUGUI countDown;
+
+    // POUR AJOUTER FAIL ===> public Animator failCountdown;
+
+    [SerializeField] UnityEvent gameFail;
+    // Start is called before the first frame update
+    void Start()
+    {
+        timeWhenFail = Time.time + timeTilFail;
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        if (crystalIsActive == null && failPanel.activeSelf == true)
+        {
+            countDown.text = "Fail";
+            timeTilFail -= Time.deltaTime;
+            // POUR AJOUTER FAIL ===> failCountdown.SetBool("isFail", true);
+            if (timeTilFail < 0)
+            {
+                gameFail.Invoke();
+                SceneManager.LoadScene("Menu");
+                Debug.Log("Fail return to start.");
+                // POUR AJOUTER FAIL ===> failCountdown.SetBool("isFail", false);
+            }
+            /*if (timeWhenFail <= Time.time)
+            {
+                timeWhenFail = Time.time + timeTilFail;
+            }*/
+        }
+    }
+}
+```
 
 <!--* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)-->
