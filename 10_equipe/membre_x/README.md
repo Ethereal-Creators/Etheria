@@ -34,13 +34,14 @@ Tutoriel des projectiles par [Distorted Pixel Studio](https://youtu.be/8TqY6p-PR
 
  Réalisation de plus de spritesheet et ajout du crystal qui se fait cibler par les ennemies
 
- ![code pour le contact des projectiles](../../Assets/images/image_doc_michael/codecrystal.png)
- ![Gif du rayon magique](../../Assets/images/image_doc_michael/heavy_attack.gif)
+ ![Gif d'une attaque mélée](../../Assets/images/image_doc_michael/heavy_attack.gif)
+ ![code du ciblage](../../Assets/images/image_doc_michael/ennemievscrystal.png) 
 
  ## Semaine 3::
 
  ajout d'un système de vie au crystal et il peut ce faire détruire
-  
+ 
+ ![code du crystal](../../Assets/images/image_doc_michael/codecrystal.png) 
   <!-- ![Alt Text](../../Assets/images/image_doc_michael/unity_test.mp4)
   ![Alt Text](../../Assets/images/image_doc_michael/test_sprite.mp4)-->
   
