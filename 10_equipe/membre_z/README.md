@@ -25,3 +25,11 @@ Pour la troisième semaine, j'ai continué l'avancement de la conception des eff
 ![capture_ecran_semaine_3](https://github.com/user-attachments/assets/f6f28acc-9d55-4bf3-9a2a-ff9e1413eaea)
 
 
+### Semaine 4
+Pour la quatrième semaine, j'ai inséré les sons mvp dans unity et j'ai programmé les effets sonores dans unity avec l'aide de mes collègues. J'ai aussi commencé à faire les variations (optionnels) des sons pour la version final du projet.
+
+![insertion_audio_unity](https://github.com/user-attachments/assets/a2f7b39a-ef1c-42a1-bf49-581668f90080)
+![code_sons](https://github.com/user-attachments/assets/fd05fd3a-c556-4032-aafa-29e3f11eee49)
+![code_sons_2](https://github.com/user-attachments/assets/7e52f392-0219-46cd-b7db-caa3c39a6ceb)
+
+
