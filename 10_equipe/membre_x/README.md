@@ -29,6 +29,16 @@
 
 Tutoriel du mouvement par [Gaming with Rafan](https://youtu.be/e7AWtLIH3u8?si=J_QcrePahT2_cVK5)
 Tutoriel des projectiles par [Distorted Pixel Studio](https://youtu.be/8TqY6p-PRcs?si=H_twutaN4FaVgBkz)
+
+ ## Semaine 3:
+
+ Réalisation de plus de spritesheet et ajout du crystal qui se fait cibler par les ennemies
+
+ 
+
+ ## Semaine 3::
+
+ ajout d'un système de vie au crystal et il peut ce faire détruire
   
   <!-- ![Alt Text](../../Assets/images/image_doc_michael/unity_test.mp4)
   ![Alt Text](../../Assets/images/image_doc_michael/test_sprite.mp4)-->
