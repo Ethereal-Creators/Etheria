@@ -34,7 +34,8 @@ Tutoriel des projectiles par [Distorted Pixel Studio](https://youtu.be/8TqY6p-PR
 
  Réalisation de plus de spritesheet et ajout du crystal qui se fait cibler par les ennemies
 
- 
+ ![code pour le contact des projectiles](../../Assets/images/image_doc_michael/codecrystal.png)
+ ![Gif du rayon magique](../../Assets/images/image_doc_michael/heavy_attack.gif)
 
  ## Semaine 3::
 
