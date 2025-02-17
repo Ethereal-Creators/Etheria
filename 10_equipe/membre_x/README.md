@@ -35,7 +35,7 @@ Tutoriel des projectiles par [Distorted Pixel Studio](https://youtu.be/8TqY6p-PR
  Réalisation de plus de spritesheet et ajout du crystal qui se fait cibler par les ennemies
 
  ![Gif d'une attaque mélée](../../Assets/images/image_doc_michael/heavy_attack.gif)
- ![code du ciblage](../../Assets/images/image_doc_michael/ennemievscrystal.png) 
+ ![code du ciblage](../../Assets/images/image_doc_michael/enemmievscrystal.png) 
 
  ## Semaine 3::
 
