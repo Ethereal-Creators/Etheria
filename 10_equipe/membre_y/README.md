@@ -267,6 +267,10 @@ public class EnemySpawner : MonoBehaviour
 - **Développement du Gameplay**  
   Amélioration du code du gameplay dans Unity avec de nouvelles mécaniques, améliorant ainsi l’expérience de jeu.
 
+  - Développement d'un UI pour le jeu
+  - Sprite Sheet pour coeur
+
+    
 - **Modélisation des Figurines**  
   Début du travail de modélisation 3D des figurines dans Blender pour ajouter un aspect visuel plus immersif au jeu.
 
