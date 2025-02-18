@@ -2,6 +2,44 @@
 
 ## Références
 
+## Arboresence
+
+```
+/etheria
+    /assets
+        /touchDesigner
+            /assets
+        /sons
+            /ableton_project
+            /medias
+            /samples
+            /export
+        /images
+            /images_doc_michael
+            /images_doc_pl
+            /images_doc_victor
+            /images_doc_joshua
+            /images_doc_
+        /Unity
+            /assets
+                /scripts
+                /sprites
+                /animations
+                /audios
+                /fonts
+                /videos
+    /scenario
+    /scenarimage
+    /references
+```
+
+### Emplacement des différents dossiers
+- [TouchDesigner](https://github.com/Ethereal-Creators/etheria-code-TouchDesigner/tree/main/touchDesigner)
+- [Unity](https://github.com/Ethereal-Creators/EtheriaKingdom_Uni/tree/main/Etheria_Kingdom)
+- [Images](https://github.com/Ethereal-Creators/Etheria/tree/main/Assets/images)
+- [Sons](https://github.com/Ethereal-Creators/Etheria_audio/tree/main/Projet_Ableton/Projet_Etheria_Ableton)
+
+
 ## Liste sons
 ### Menu:
 - Ambiance menu (repos)
