@@ -4,9 +4,9 @@ Documentation de la maquette, son fonctionnement, ce qu'elle teste et le résult
 
 ## Gallerie d'images
 
-* ![Image 1](https://placehold.co/400x400?text=1+image)
-* ![Image 2](https://placehold.co/400x400?text=2+image)
-* ![Image 3](https://placehold.co/400x400?text=3+image)
+* ![](../../Assets/images/maquette_image/projecteur_photo.webp)
+* ![](../../Assets/images/maquette_image/setup_projo.webp)
+* ![](../../Assets/images/maquette_image/photo_de_groupe.webp)
 * ![Image 4](https://placehold.co/400x400?text=4+image)
 
 ## Vidéo du la maquette en action
