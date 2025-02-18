@@ -2,12 +2,16 @@
 
 Documentation de la maquette, son fonctionnement, ce qu'elle teste et le résultat de ce test
 
+La maquette est une première itération du jeu, avec un fond blanc pour minimiser la perte de signal des arUco. De plus, elle sert a montrer un "gameloop" initiale de menu, jeu (défense de la pierre) et fin pour ensuite revenir au début. Le signale fonctionne grace a une caméra Sony  
+
 ## Gallerie d'images
 
-* ![](../Assets/images/maquette_image/projecteur_photo.png)
-* ![](../Assets/images/maquette_image/setup_projo.png)
-* ![](../Assets/images/maquette_image/photo_de_groupe.png)
-* ![Image 4](https://placehold.co/400x400?text=4+image)
+![Photo du projecteur](../Assets/images/maquette_image/projecteur_photo.png)
+![Setup du prototype](../Assets/images/maquette_image/setup_projo.png)
+![Photo de groupe](../Assets/images/maquette_image/photo_de_groupe.png)
+![Menu de la maquette](../Assets/images/prototypeMenu.jpg)
+![Partie en cours](../Assets/images/prototypegame.jpg)
+![Perte de partie](../Assets/images/prototypeFail.jpg)
 
 ## Vidéo du la maquette en action
 
