@@ -192,4 +192,16 @@ public class failScript : MonoBehaviour
 }
 ```
 
+---
+
+### Semaine 5 :
+
+Correction demande du prof pour les canvas de les changer pour caméra space. Plus ajuster la grosseur de la caméra dans le menu pour être la même taille que dans la scène "test01_OSC".
+
+Le changement vers un nouveau canvas a été difficile pour les deux scènes étant placées avec un autre canvas auparavant, presque tous les objets dans les scènes ont dû être déplacés ou édités.
+
+Changer taille de la caméra pour le menu.
+
+
+
 <!--* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)-->
