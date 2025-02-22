@@ -276,7 +276,7 @@ public class EnemySpawner : MonoBehaviour
 
 ---
 
-### 🗓 **Semaine 4** : Animation des Ennemis et Personnages
+### 🗓 **Semaine 4** : Commencer à faire un concept de modèle 3D et travail supplémentaire sur les scripts du jeu
 
 - **Animations des Ennemis**  
   Travail sur les animations des ennemis pour renforcer leur fluidité et leur comportement en jeu.
@@ -286,10 +286,9 @@ public class EnemySpawner : MonoBehaviour
 
 ---
 
-### 🗓 **Semaine 5** : Système de Sauvegarde et Chargement du Jeu
+### 🗓 **Semaine 5** : Création de powerups et buff abilities
 
-- **Implémentation d'un système de sauvegarde**  
-  Création d'un système permettant de sauvegarder l'état du jeu et de le charger lors de prochaines sessions de jeu.
+
 
 ---
 
