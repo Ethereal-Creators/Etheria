@@ -32,4 +32,10 @@ Pour la quatrième semaine, j'ai inséré les sons mvp dans unity et j'ai progra
 ![code_sons](https://github.com/user-attachments/assets/fd05fd3a-c556-4032-aafa-29e3f11eee49)
 ![code_sons_2](https://github.com/user-attachments/assets/7e52f392-0219-46cd-b7db-caa3c39a6ceb)
 
+### Semaine 5
+Pour la cinquième semaine, J'ai finalisé la composition de tous les effets sonores restant et j'ai fini la composition de l'ambiance du projet au repos. De plus j'ai ajouté les effets sonores et leur variations dans unity.
+
+![capture_ecran_sons_ajout_unity](https://github.com/user-attachments/assets/46ddeebf-51b9-4821-a58a-7a8e5a254eed)
+
+![finalisation_ambiance_repos](https://github.com/user-attachments/assets/dcde4988-a4bd-4190-8b6d-28a1808f15c1)
 
