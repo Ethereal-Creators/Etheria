@@ -48,6 +48,9 @@ Tutoriel des projectiles par [Distorted Pixel Studio](https://youtu.be/8TqY6p-PR
  ## Semaine 5:
 
  Implimentation de d'autre type d'attaque et céation d'un troisième personnage (le paladin), attaque explosif et une attaque projectile pour le paladin
+ Fait en sorte que les ennemies n'apparait pas n'importe ou dans la scène, ils apparaisent or du canvas
+
+ 
  
   
 
