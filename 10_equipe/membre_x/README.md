@@ -37,13 +37,18 @@ Tutoriel des projectiles par [Distorted Pixel Studio](https://youtu.be/8TqY6p-PR
  ![Gif d'une attaque mélée](../../Assets/images/image_doc_michael/heavy_attack.gif)
  ![code du ciblage](../../Assets/images/image_doc_michael/enemmievscrystal.png) 
 
- ## Semaine 3::
+ ## Semaine 4:
 
- ajout d'un système de vie au crystal et il peut ce faire détruire
+ ajout d'un système de vie au crystal et il peut ce faire détruire et installation de la maquette en équipe
  
  ![code du crystal](../../Assets/images/image_doc_michael/codecrystal.png) 
   <!-- ![Alt Text](../../Assets/images/image_doc_michael/unity_test.mp4)
   ![Alt Text](../../Assets/images/image_doc_michael/test_sprite.mp4)-->
+
+ ## Semaine 5:
+
+ Implimentation de d'autre type d'attaque et céation d'un troisième personnage (le paladin), attaque explosif et une attaque projectile pour le paladin
+ 
   
 
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
