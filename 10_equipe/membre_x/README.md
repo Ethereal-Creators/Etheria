@@ -57,7 +57,7 @@ Tutoriel des projectiles par [Distorted Pixel Studio](https://youtu.be/8TqY6p-PR
  média:
  ![code pour les projectiles explosif partie 1](../../Assets/images/image_doc_michael/code_explosif_p1.png) 
  ![code pour les projectiles explosif partie 2](../../Assets/images/image_doc_michael/code_explosif_p2.png) 
- ![code attaque pour le paladin](../../Assets/images/image_doc_michael/attaque_melee.png) 
+ ![code attaque pour le paladin](../../Assets/images/image_doc_michael/attaquemelee.png) 
  ![changement du code pour que les ennemies apparaisent or du canvas](../../Assets/images/image_doc_michael/spawner_orcanvas.png) 
 
  
