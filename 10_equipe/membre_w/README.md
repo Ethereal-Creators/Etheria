@@ -200,7 +200,19 @@ Correction demande du prof pour les canvas de les changer pour caméra space. Pl
 
 Le changement vers un nouveau canvas a été difficile pour les deux scènes étant placées avec un autre canvas auparavant, presque tous les objets dans les scènes ont dû être déplacés ou édités.
 
-Changer taille de la caméra pour le menu.
+#### Capture de chaque scenes :
+
+![unity-test01_OSC_2025-02-22](../../Assets/images/image_doc_victor/unity-test01_OSC_2025-02-22.png)
+
+![unity_menu_2025-02-22](../../Assets/images/image_doc_victor/unity_menu_2025-02-22.png)
+
+#### Changer taille de la caméra pour le menu :
+
+![unity_menu_MyOSC-script_2025-02-22](../../Assets/images/image_doc_victor/unity_menu_MyOSC-script_2025-02-22.png)
+
+![unity_menu_camera_2025-02-22](../../Assets/images/image_doc_victor/unity_menu_camera_2025-02-22.png)
+
+Le changement de taille permet d'éditer les données pour les *"tracker"* plus facile. Aillant ma même taille que dans la scene "test01_OSC".
 
 
 
