@@ -9,6 +9,7 @@
 
  Réalisation des spritesheets des projectiles pour notre jeu unity
 
+ média:
  ![Gif de la flèche](../../Assets/images/image_doc_michael/arrow_sprite.gif)
  ![Gif de la flèche explosif](../../Assets/images/image_doc_michael/fleche_explosif_sprite.gif)
  ![Gif du rayon magique](../../Assets/images/image_doc_michael/magic-beam_sprite.gif)
@@ -23,9 +24,10 @@
 
  Réalisation d'un test sur Unity où que le joueur peut ce déplacer et tirer des ennemies
 
-  ![code pour le controlleur du joueur](../../Assets/images/image_doc_michael/controlleur_joueur_archer.png)
-  ![code pour les projectiles](../../Assets/images/image_doc_michael/projectile_fleche.png)
-  ![code pour le contact des projectiles](../../Assets/images/image_doc_michael/contact_projectile.png)
+ média:
+ ![code pour le controlleur du joueur](../../Assets/images/image_doc_michael/controlleur_joueur_archer.png)
+ ![code pour les projectiles](../../Assets/images/image_doc_michael/projectile_fleche.png)
+ ![code pour le contact des projectiles](../../Assets/images/image_doc_michael/contact_projectile.png)
 
 Tutoriel du mouvement par [Gaming with Rafan](https://youtu.be/e7AWtLIH3u8?si=J_QcrePahT2_cVK5)
 Tutoriel des projectiles par [Distorted Pixel Studio](https://youtu.be/8TqY6p-PRcs?si=H_twutaN4FaVgBkz)
@@ -34,13 +36,15 @@ Tutoriel des projectiles par [Distorted Pixel Studio](https://youtu.be/8TqY6p-PR
 
  Réalisation de plus de spritesheet et ajout du crystal qui se fait cibler par les ennemies
 
+ média:
  ![Gif d'une attaque mélée](../../Assets/images/image_doc_michael/heavy_attack.gif)
  ![code du ciblage](../../Assets/images/image_doc_michael/enemmievscrystal.png) 
 
  ## Semaine 4:
 
  ajout d'un système de vie au crystal et il peut ce faire détruire et installation de la maquette en équipe
- 
+
+ média:
  ![code du crystal](../../Assets/images/image_doc_michael/codecrystal.png) 
   <!-- ![Alt Text](../../Assets/images/image_doc_michael/unity_test.mp4)
   ![Alt Text](../../Assets/images/image_doc_michael/test_sprite.mp4)-->
@@ -49,6 +53,12 @@ Tutoriel des projectiles par [Distorted Pixel Studio](https://youtu.be/8TqY6p-PR
 
  Implimentation de d'autre type d'attaque et céation d'un troisième personnage (le paladin), attaque explosif et une attaque projectile pour le paladin
  Fait en sorte que les ennemies n'apparait pas n'importe ou dans la scène, ils apparaisent or du canvas
+
+ média:
+ ![code pour les projectiles explosif partie 1](../../Assets/images/image_doc_michael/) 
+ ![code pour les projectiles explosif partie 2](../../Assets/images/image_doc_michael/) 
+ ![code attaque pour le paladin](../../Assets/images/image_doc_michael/) 
+ ![changement du code pour que les ennemies apparaisent or du canvas](../../Assets/images/image_doc_michael/) 
 
  
  
