@@ -55,7 +55,7 @@ Tutoriel des projectiles par [Distorted Pixel Studio](https://youtu.be/8TqY6p-PR
  Fait en sorte que les ennemies n'apparait pas n'importe ou dans la scène, ils apparaisent or du canvas
 
  média:
- ![code du crystal](../../Assets/images/image_doc_michael/codecrystal.png) 
+  <!--![code du crystal](../../Assets/images/image_doc_michael/codecrystal.png) -->
  ![code pour les projectiles explosif partie 1](../../Assets/images/image_doc_michael/code_explosif_p1.png) 
  ![code pour les projectiles explosif partie 2](../../Assets/images/image_doc_michael/code_explosif_p2.png) 
  ![code attaque pour le paladin](../../Assets/images/image_doc_michael/attaquemelee.png) 
