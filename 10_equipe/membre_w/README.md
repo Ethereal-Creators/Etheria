@@ -212,7 +212,7 @@ Le changement vers un nouveau canvas a été difficile pour les deux scènes ét
 
 ![unity_menu_camera_2025-02-22](../../Assets/images/image_doc_victor/unity_menu_camera_2025-02-22.png)
 
-Le changement de taille permet d'éditer les données pour les *"tracker"* plus facile. Aillant ma même taille que dans la scene "test01_OSC".
+Le changement de taille permet d'éditer les données pour les *"tracker"* plus facilement. Ayant la même taille que dans la scène "test01_OSC".
 
 
 
