@@ -288,7 +288,7 @@ public class EnemySpawner : MonoBehaviour
 
 ### 🗓 **Semaine 5** : Création de powerups et buff abilities
 
-
+![demo](Assets/images/image_doc_pl/powerupdemo.mp4)
 
 ---
 
