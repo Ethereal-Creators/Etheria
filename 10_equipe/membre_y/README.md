@@ -294,11 +294,7 @@ public class EnemySpawner : MonoBehaviour
 
 ### 🗓 **Semaine 6** : Création du Niveau et Intégration des Sons
 
-- **Création du Niveau**  
-  Conception et intégration des différents éléments pour le premier niveau du jeu, incluant les décors et les obstacles.
-
-- **Intégration des Sons**  
-  Ajout des effets sonores et de la musique de fond pour améliorer l'immersion du joueur.
+- **À compléter**
 
 ---
 
