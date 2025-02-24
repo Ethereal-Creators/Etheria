@@ -403,7 +403,14 @@ public class ShieldBuff : PowerUpEffect
 }
 
 ```
+![ShieldPotion](../../Assets/images/image_doc_pl/ShieldBuff.gif)
+![ShieldPotion](../../Assets/images/image_doc_pl/ShieldBuff-Sheet.png)
+
+
   - Amélioration des dégats
+![Strenght Potion](../../Assets/images/image_doc_pl/UpgradeBuff.gif)
+![Strenght Potion](../../Assets/images/image_doc_pl/UpgradeBuff-Sheet.png)
+
 
 ![demo](../../Assets/images/image_doc_pl/powerupdemo.mp4)
 
