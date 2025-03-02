@@ -39,3 +39,12 @@ Pour la cinquième semaine, J'ai finalisé la composition de tous les effets son
 
 ![finalisation_ambiance_repos](https://github.com/user-attachments/assets/dcde4988-a4bd-4190-8b6d-28a1808f15c1)
 
+### Semaine 6
+Pour le sixieme semaine, j'ai fait une partie des sprites pour les « Power-Up » des personnages, j'ai travaillé sur le son du papillon et commencé la recherche d'idée pour la décoration de notre installation pour la journée de la présentation.
+
+![Capture_ecran_fleche_explosive](https://github.com/user-attachments/assets/9d38e9ff-a182-45c1-920e-4d2a41d6dec1)
+
+![capture_ecran_tremblement](https://github.com/user-attachments/assets/d5f0ee16-66f6-435e-82e6-5b0f8aeba88d)
+![tremblement_powerup](https://github.com/user-attachments/assets/361baa21-4b67-4103-bead-e90f20c58393)
+
+![fleche_explosif_powerup](https://github.com/user-attachments/assets/d5ae502d-ce8c-4c0c-ab16-c4de3e981b70)
