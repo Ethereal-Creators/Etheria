@@ -214,6 +214,235 @@ Le changement vers un nouveau canvas a été difficile pour les deux scènes ét
 
 Le changement de taille permet d'éditer les données pour les *"tracker"* plus facilement. Ayant la même taille que dans la scène "test01_OSC".
 
+---
+
+### Semaine 6 :
+
+Création d'un "préfab" pour instancier les *"prefabs"* (*"Box"*) de Pierre-Luc dans la scène un à la fois après un certain temps. Le script dans le *"prefab"* permet aussi de décider le nombre de *"Box"* qu'il peut y avoir en même temps et s'il y en a qui sont détruits, d'autres vont apparaître pour se rendre au maximum.
+
+#### Images + Vidéos :
+
+[![unity enaction02 spawner Box PL 2025 03 03 video](https://img.youtube.com/vi/js2z5s2INXw/0.jpg)](https://www.youtube.com/watch?v=js2z5s2INXw)
+
+#### Code :
+
+```c#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class spawnerItemsScript : MonoBehaviour
+{
+    public GameObject item;
+    private float timeDown = 0.0f;
+
+    private float timeCheck = 0.0f;
+
+    public float minTimeUntilNextSpawn;
+
+    public float maxTimeUntilNextSpawn;
+
+    [Header("------- Max Spawn Item -------")]
+
+    public int maxAmountOfItems = 3;
+
+    public int currentItemsCount;
+
+    [Header("------- Position Spawn Item -------")]
+
+    public float minimumRandomX;
+    public float maximumRandomX;
+    public float minimumRandomY;
+    public float maximumRandomY;
+
+    [Header("------- Audio Effects Spawn Item -------")]
+    public AudioSource source;
+    public List<AudioClip> clipsStart = new List<AudioClip>();
+
+    [Header("------- Spawned Item (do not add object) -------")]
+
+    public List<GameObject> ListItems = new List<GameObject>();
+
+    private bool setMaxItem = false;
+
+    //healthPackClones.add(Instantiate(healthPack,healthPackSpawns[0].transform.position,healthPackSpawns[0].transform.rotation) as GameObject);
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        source = this.gameObject.GetComponent<AudioSource>();
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        timeCheck += Time.deltaTime;
+        if (timeCheck >= 0.5f)
+        {
+            timeCheck = 0.0f;
+
+            for (int i = 0; i < ListItems.Count; i++)
+            {
+                if (ListItems[i] == null && setMaxItem == false /*&& maxAmountOfItems < currentItemsCount*/)
+                {
+                    ListItems.RemoveAll(item => item.gameObject == null);
+                    currentItemsCount = currentItemsCount - 1;
+                    setMaxItem = true;
+                }
+            }
+        }
+
+        float randomValue = Random.Range(minTimeUntilNextSpawn, maxTimeUntilNextSpawn);
+        timeDown += Time.deltaTime;
+        if (timeDown >= randomValue)
+        {
+            timeDown = 0.0f;
+
+            if (maxAmountOfItems > currentItemsCount)
+            {
+                if (setMaxItem == true)
+                {
+                    setMaxItem = false;
+                }
+                currentItemsCount++;
+                //ListItems.add(Instantiate(item, (new Vector2(Random.Range(minimumRandomX, maximumRandomX), Random.Range(minimumRandomY, maximumRandomY))), Quaternion.identity));
+
+                GameObject newItem = Instantiate(item, (new Vector2(Random.Range(minimumRandomX, maximumRandomX), Random.Range(minimumRandomY, maximumRandomY))), Quaternion.identity);
+                ListItems.Add(newItem);
+            }
+
+
+            if (source != null && clipsStart.Count > 0)
+            {
+                int randomClipIndex = Random.Range(0, clipsStart.Count);
+                source.PlayOneShot(clipsStart[randomClipIndex]);
+            }
+
+
+            //countDown.text = currentTime.ToString();  // Removed
+        }
+    }
+}
+```
+
+Création de *"prefab"* qui est un coffre ou boite qui va contenir les amélioration d'armes des joueurs. Ce *"prefab"* va détruitruire après un certain nombre de contacte avec des projectiles ce qui activera l'amélioration d'arme en arrière de celui-ci.
+
+#### Image + Vidéo :
+
+[![unity enAction BoiteEvenement 2025 03 03 video](https://img.youtube.com/vi/N49hRGMHcVk/0.jpg)](https://www.youtube.com/watch?v=N49hRGMHcVk)
+
+#### Code dans script des projectile (ce trouve dans les *"OnCollisionEnter2D"*) :
+
+Le *"prefab"* a le tag "BoiteEvenement".
+
+```c#
+if (collision.CompareTag("BoiteEvenement"))
+{
+    var scriptEvent = collision.gameObject.GetComponent<eventContainerScript>();
+    scriptEvent.actionOnCollsion();  // Handle event-specific actions
+}
+```
+
+#### Code script du prefab :
+
+```c#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Events;
+
+public class eventContainerScript : MonoBehaviour
+{
+
+    public int maxAmountOfHit;
+    public int totalOfHit;
+
+    private float timeDown = 0.0f;
+
+    public float frequecyOfCheckup;
+
+    public GameObject sprite;
+
+    public GameObject InfoCanvas;
+
+    private bool isInfoCanvasActive = false;
+    [SerializeField] UnityEvent actionOnDesepear;
+
+    private bool isAnimationActive = false;
+
+    public void Update()
+    {
+
+        timeDown += Time.deltaTime;
+        if (timeDown >= frequecyOfCheckup)
+        {
+            timeDown = 0.0f;
+            if (isAnimationActive == true)
+            {
+                sprite.gameObject.GetComponent<SpriteRenderer>().color = Color.red;
+                isAnimationActive = false;
+                Debug.Log("Red");
+            }
+            else if (isAnimationActive == false)
+            {
+                sprite.gameObject.GetComponent<SpriteRenderer>().color = Color.white;
+                Debug.Log("White");
+            }
+
+            if (isInfoCanvasActive == true)
+            {
+                isInfoCanvasActive = false;
+                InfoCanvas.SetActive(true);
+            }
+            else if (isInfoCanvasActive == false)
+            {
+                InfoCanvas.SetActive(false);
+            }
+        }
+    }
+
+    public void actionOnCollsion()
+    {
+        Debug.Log("Colided with 'BoiteEvenement'");
+        totalOfHit++;
+        isAnimationActive = true;
+
+        isInfoCanvasActive = true;
+
+        if (maxAmountOfHit <= totalOfHit)
+        {
+            actionOnDesepear.Invoke();
+            this.gameObject.GetComponent<SpriteRenderer>().enabled = false;
+            this.gameObject.GetComponent<BoxCollider2D>().enabled = false;
+        }
+    }
+
+    public void OnCollisionEnter2D(Collision2D coll)
+    {
+        if (InfoCanvas != null)
+        {
+            if (InfoCanvas.gameObject.activeSelf == false)
+            {
+                InfoCanvas.SetActive(true);
+            }
+        }
+    }
+
+    public void OnCollisionExit2D(Collision2D coll)
+    {
+        if (InfoCanvas != null)
+        {
+            if (InfoCanvas.gameObject.activeSelf == true)
+            {
+                InfoCanvas.SetActive(false);
+            }
+        }
+    }
+}
+
+```
+
+
 
 
 <!--* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)-->
