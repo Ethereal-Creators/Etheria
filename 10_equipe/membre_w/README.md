@@ -222,6 +222,10 @@ Création d'un "préfab" pour instancier les *"prefabs"* (*"Box"*) de Pierre-Luc
 
 #### Images + Vidéos :
 
+![untiy_spawner_Box-PL_2025-03-03](../../Assets/images/image_doc_victor/untiy_spawner_Box-PL_2025-03-03.png)
+
+![untiy_enaction01_spawner_Box-PL_2025-03-03](../../Assets/images/image_doc_victor/untiy_enaction01_spawner_Box-PL_2025-03-03.png)
+
 [![unity enaction02 spawner Box PL 2025 03 03 video](https://img.youtube.com/vi/js2z5s2INXw/0.jpg)](https://www.youtube.com/watch?v=js2z5s2INXw)
 
 #### Code :
@@ -328,6 +332,9 @@ public class spawnerItemsScript : MonoBehaviour
 Création de *"prefab"* qui est un coffre ou boite qui va contenir les amélioration d'armes des joueurs. Ce *"prefab"* va détruitruire après un certain nombre de contacte avec des projectiles ce qui activera l'amélioration d'arme en arrière de celui-ci.
 
 #### Image + Vidéo :
+
+![untiy_BoiteEvenement-01_2025-03-03](../../Assets/images/image_doc_victor/untiy_BoiteEvenement-01_2025-03-03.png)
+![untiy_BoiteEvenement-01_2025-03-03](../../Assets/images/image_doc_victor/untiy_BoiteEvenement-02_2025-03-03.png)
 
 [![unity enAction BoiteEvenement 2025 03 03 video](https://img.youtube.com/vi/N49hRGMHcVk/0.jpg)](https://www.youtube.com/watch?v=N49hRGMHcVk)
 
