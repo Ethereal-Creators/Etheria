@@ -416,9 +416,18 @@ public class ShieldBuff : PowerUpEffect
 
 ---
 
-### 🗓 **Semaine 6** : Création du Niveau et Intégration des Sons
+### 🗓 **Semaine 6** : Création de nouveaux variant d'ennemies + boss final
 
-- **À compléter**
+- Demon Skelette
+
+- Chauve-Souris
+
+- Slime Mauve
+
+- Demon (boss)
+
+- Création des boîtes items qui spawn au courant des vagues
+  
 
 ---
 
