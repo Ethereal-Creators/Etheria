@@ -66,7 +66,8 @@ Tutoriel des projectiles par [Distorted Pixel Studio](https://youtu.be/8TqY6p-PR
 
 Création et et impression des pions pour le projet Etheria, le modèle 3D a été fait sur Maya puis exporter dans le logiciel orca slicer pour l'imprimer
  
-  
+ ![modèle 3D](../../Assets/images/image_doc_michael/pionetheria.jpg)
+ ![modèle dans orca slicer](../../Assets/images/image_doc_michael/imprimant3d.jpg) 
 
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
 
