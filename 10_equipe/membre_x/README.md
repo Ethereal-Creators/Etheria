@@ -62,6 +62,9 @@ Tutoriel des projectiles par [Distorted Pixel Studio](https://youtu.be/8TqY6p-PR
  ![changement du code pour que les ennemies apparaisent or du canvas](../../Assets/images/image_doc_michael/spawner_orcanvas.png) 
 
  
+## Semaine 6:
+
+Création et et impression des pions pour le projet Etheria, le modèle 3D a été fait sur Maya puis exporter dans le logiciel orca slicer pour l'imprimer
  
   
 
