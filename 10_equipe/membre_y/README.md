@@ -419,6 +419,8 @@ public class ShieldBuff : PowerUpEffect
 ### 🗓 **Semaine 6** : Création de nouveaux variant d'ennemies + boss final
 
 - Demon Skelette
+  ![DemonSkeleltte](../../Assets/images/image_doc_pl/DemonSkeletton.gif)
+   ![DemonSkeleltte](../../Assets/images/image_doc_pl/DemonSkeletton-Sheet.png)
 
 - Chauve-Souris
 
