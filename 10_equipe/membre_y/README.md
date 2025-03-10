@@ -427,12 +427,12 @@ public class ShieldBuff : PowerUpEffect
   ![Bat](../../Assets/images/image_doc_pl/FlyVariant-Sheet.png)
 
 - Slime Mauve
-  ![DemonSkeleltte](../../Assets/images/image_doc_pl/SlimeVariant.gif)
-  ![DemonSkeleltte](../../Assets/images/image_doc_pl/SlimeVariant-Sheet.png)
+  ![DemonSkeleltte](../../Assets/images/image_doc_pl/SlimesVariant.gif)
+  ![DemonSkeleltte](../../Assets/images/image_doc_pl/SlimesVariant-Sheet.png)
 
 - Demon (boss)
-  ![Demon](../../Assets/images/image_doc_pl/Demon.gif)
-  ![Demon](../../Assets/images/image_doc_pl/Demon-Sheet.png)
+  ![Demon](../../Assets/images/image_doc_pl/DemonBoss.gif)
+  ![Demon](../../Assets/images/image_doc_pl/DemonBoss-Sheet.png)
 
 - Création des boîtes items qui spawn au courant des vagues
   
