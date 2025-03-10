@@ -143,6 +143,8 @@
 - **Création des boîtes items**  
   - Les boîtes spawnent pendant les vagues.
 
+  ![Box](../../Assets/images/image_doc_pl/Box.png)
+
 ---
 
 ### 🗓 **Semaine 7** : À Compléter
