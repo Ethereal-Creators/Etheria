@@ -419,14 +419,20 @@ public class ShieldBuff : PowerUpEffect
 ### 🗓 **Semaine 6** : Création de nouveaux variant d'ennemies + boss final
 
 - Demon Skelette
-  ![DemonSkeleltte](../../Assets/images/image_doc_pl/DemonSkeletton.gif)
-   ![DemonSkeleltte](../../Assets/images/image_doc_pl/DemonSkeletton-Sheet.png)
+  ![DemonSkeleltteGif](../../Assets/images/image_doc_pl/SkeletonVariant.gif)
+  ![DemonSkeleltte](../../Assets/images/image_doc_pl/SkeletonVariant-Sheet.png)
 
 - Chauve-Souris
+  ![BatGif](../../Assets/images/image_doc_pl/FlyVariant.gif)
+  ![Bat](../../Assets/images/image_doc_pl/FlyVariant-Sheet.png)
 
 - Slime Mauve
+  ![DemonSkeleltte](../../Assets/images/image_doc_pl/SlimeVariant.gif)
+  ![DemonSkeleltte](../../Assets/images/image_doc_pl/SlimeVariant-Sheet.png)
 
 - Demon (boss)
+  ![Demon](../../Assets/images/image_doc_pl/Demon.gif)
+  ![Demon](../../Assets/images/image_doc_pl/Demon-Sheet.png)
 
 - Création des boîtes items qui spawn au courant des vagues
   
