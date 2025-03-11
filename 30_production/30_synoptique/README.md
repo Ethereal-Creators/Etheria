@@ -21,7 +21,6 @@ flowchart TD
 
     %% Connections
     A -->|🔌 Cable USB| B
-    A -->|🔌 Cable Ethernet | C
     B -->|🎧 Cable XLR| D
     B --> E
     A -->|📺 Cable HDMI| F
