@@ -10,7 +10,7 @@ flowchart TD
     subgraph Devices [Appareils]
         A[💻 PC]
         B(🎶 Carte de son)
-        C(📷Camera)
+        C(📷Kinect/PoE)
         F(Projecteur)
     end
 
@@ -21,7 +21,7 @@ flowchart TD
 
     %% Connections
     A -->|🔌 Cable USB| B
-    A -->|🔌 Cable USB avec une extension| C
+    A -->|🔌 Cable Ethernet | C
     B -->|🎧 Cable XLR| D
     B --> E
     A -->|📺 Cable HDMI| F
