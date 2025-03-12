@@ -15,9 +15,12 @@ La maquette est une première itération du jeu, avec un fond blanc pour minimis
 
 ## Vidéo du la maquette en action
 https://github.com/user-attachments/assets/97d912d4-0f0e-48c1-a3b5-0e060723a0e9
+
+<!--
 ## Références 
 
 * [Étude de faisabilité](https://tim-montmorency.com/582523-gestion/#/contenus/4_faisabilite/10_etude/)
 * [Maquette](https://tim-montmorency.com/582523-gestion/#/contenus/4_faisabilite/30_maquette/)
 * 
+-->
 
