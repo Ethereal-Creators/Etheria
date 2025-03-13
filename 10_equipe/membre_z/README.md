@@ -48,3 +48,11 @@ Pour le sixieme semaine, j'ai fait une partie des sprites pour les « Power-Up �
 ![tremblement_powerup](https://github.com/user-attachments/assets/361baa21-4b67-4103-bead-e90f20c58393)
 
 ![fleche_explosif_powerup](https://github.com/user-attachments/assets/d5ae502d-ce8c-4c0c-ab16-c4de3e981b70)
+
+
+### Semaine 7
+Pour le septieme semaine, j'ai travaillé de nouveau sur le son du cristal lorsque celui-ci reçoit un coup et sur un effet sonore qui avertit lorsque la vague est finit. De plus j'ai ajouté les deux sons dans unity.
+![capture_ecran_recoit_coup_riser_ableton](https://github.com/user-attachments/assets/377cebd3-08a1-49e9-882a-3df6d33191dc)
+![capture_ecran_ajout_riser](https://github.com/user-attachments/assets/7f2af831-9f30-4fa3-8534-a4956687245f)
+![capture_ecran_riser_ableton](https://github.com/user-attachments/assets/1049a691-2914-449b-93c4-302165a0bbf0)
+![Screenshot 2025-03-13 134643](https://github.com/user-attachments/assets/0e965c1e-de07-4e89-b777-e38c04f722d0)
