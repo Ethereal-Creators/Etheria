@@ -1,7 +1,7 @@
 * [Équipe](/10_equipe/)
   * [Membre v](/10_equipe/membre_v/)
   * [Victor_Gileau](/10_equipe/Victor_Gileau/)
-  * [Membre x](/10_equipe/membre_x/)
+  * [Michael_Un_Dupré](/10_equipe/Michael_Un_Dupre/)
   * [Membre y](/10_equipe/membre_y/)
   * [Maik_Hamel](/10_equipe/Maik_Hamel/)
 * [Intentions](/20_intention/)
