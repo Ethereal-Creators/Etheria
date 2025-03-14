@@ -6,5 +6,5 @@
 * [![Victor_Gileau](Victor_Gileau/vic_00000.jpg)](Victor_Gileau/)
 * [![Michael](membre_x/michael_00000.jpg)](membre_x/)
 * [![Pierre](membre_y/pierreluc_00000.jpg)](membre_y/)
-* [![Maik](membre_z/maik_00000.jpg)](membre_z/)
+* [![Maik_Hamel](Maik_Hamel/maik_00000.jpg)](Maik_Hamel/)
 

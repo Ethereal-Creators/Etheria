@@ -3,7 +3,7 @@
   * [Victor_Gileau](/10_equipe/Victor_Gileau/)
   * [Membre x](/10_equipe/membre_x/)
   * [Membre y](/10_equipe/membre_y/)
-  * [Membre z](/10_equipe/membre_z/)
+  * [Maik_Hamel](/10_equipe/Maik_Hamel/)
 * [Intentions](/20_intention/)
   * [Synopsis](/20_intention/10_synopsis/)
   * [Ambiance](/20_intention/20_ambiance/)
