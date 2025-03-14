@@ -1,6 +1,6 @@
 * [Équipe](/10_equipe/)
   * [Membre v](/10_equipe/membre_v/)
-  * [Membre W](/10_equipe/membre_w/)
+  * [Victor_Gileau](/10_equipe/Victor_Gileau/)
   * [Membre x](/10_equipe/membre_x/)
   * [Membre y](/10_equipe/membre_y/)
   * [Membre z](/10_equipe/membre_z/)
