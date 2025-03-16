@@ -1,6 +1,6 @@
 # Diffusion
 
-Documentation du projet finalisé 
+### Documentation du projet finalisé 
 
 * ![photo_etheria_diffusion_01](../Assets/images/image_diffusion/photo_etheria_diffusion_01.png)
 * ![photo_etheria_diffusion_02](../Assets/images/image_diffusion/photo_etheria_diffusion_02.png)
