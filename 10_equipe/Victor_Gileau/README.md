@@ -449,6 +449,8 @@ public class eventContainerScript : MonoBehaviour
 
 ```
 
+---
+
 ### Semaine de rattrapage :
 
 Création d'un script pour activer les "BoîteEvénement" une à la fois. Dans l'exemple ci-dessous, le premier apparaît après 7 secondes et les deux autres apparaissent après un nombre de secondes sélectionné au hasard entre 2 et 4 inclusivement. La liste d'objets est l'ordre dans lequel les objets sont activés. L'audio en dessous s'active à chaque activation d'objets.
