@@ -566,7 +566,7 @@ Enclenche un deux événements différents, un pour quand le bon joueur entre en
 
 ![untiy_objet_ou_placer_joueur_2025-03-16](../../Assets/images/image_doc_victor/untiy_objet_ou_placer_joueur_2025-03-16.png)
 
-```C#
+```cs
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -625,7 +625,7 @@ Va surveiller certaines valeurs, sont vraies ou fausses, et s'ils sont toutes vr
 
 ![untiy_objet_activer_quand_tout_joueur_placer_2025-03-16](../../Assets/images/image_doc_victor/untiy_objet_activer_quand_tout_joueur_placer_2025-03-16.png)
 
-```c#
+```cs
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
