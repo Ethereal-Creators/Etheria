@@ -554,4 +554,144 @@ public class CountDownUntilSpawn : MonoBehaviour
 * Correction de *"prefabs"* (ex.: ennemi et *"eventStarter"*)
 
 
+---
+
+### Semaine 7 :
+
+Création d'un script pour que les utilisateur place les joueurs au bonne endroit quand demander a la fin d'une partie ou a l'échque d'une partie.
+
+#### Premier script :
+
+Enclenche un deux événements différents, un pour quand le bon joueur entre en collision avec le l'objet avec le script et un autre pour quand il sort de l'objet. Un son différent est aussi enclenché à l'interaction pour avant chaque [événement Unity](https://docs.unity3d.com/6000.0/Documentation/ScriptReference/Events.UnityEvent.html).
+
+![untiy_objet_ou_placer_joueur_2025-03-16](../../Assets/images/image_doc_victor/untiy_objet_ou_placer_joueur_2025-03-16.png)
+
+```C#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Events;
+using UnityEngine.SceneManagement;
+ 
+public class positionPlayerScript : MonoBehaviour
+{
+    public GameObject playerSelected;
+ 
+    public UnityEvent OnPlaced;
+ 
+    public UnityEvent OnLeave;
+ 
+    [Header("------- Audio Effects -------")]
+    [SerializeField]
+    private AudioSource source;
+ 
+    public List<AudioClip> clipsEnter = new List<AudioClip>();
+ 
+    public List<AudioClip> clipsExit = new List<AudioClip>();
+ 
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject == playerSelected.gameObject)
+        {
+            if (source != null && clipsEnter.Count > 0)
+            {
+                int randomClipIndex = Random.Range(0, clipsEnter.Count);
+                source.PlayOneShot(clipsEnter[randomClipIndex]);
+            }
+            OnPlaced.Invoke();
+            Debug.Log("Placer le " + collision.gameObject.name);
+        }
+    }
+ 
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject == playerSelected.gameObject)
+        {
+            if (source != null && clipsExit.Count > 0)
+            {
+                int randomClipIndex = Random.Range(0, clipsExit.Count);
+                source.PlayOneShot(clipsExit[randomClipIndex]);
+            }
+            OnLeave.Invoke();
+            Debug.Log("Enlever le " + collision.gameObject.name);
+        }
+    }
+}
+```
+
+#### Deuxième script :
+
+Va surveiller certaines valeurs, sont vraies ou fausses, et s'ils sont toutes vraies, enclencher un événement. Contient des fonctions qui sont des variables à vrai ou faux pour chaque joueur (x3).
+
+![untiy_objet_activer_quand_tout_joueur_placer_2025-03-16](../../Assets/images/image_doc_victor/untiy_objet_activer_quand_tout_joueur_placer_2025-03-16.png)
+
+```c#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Events;
+using UnityEngine.SceneManagement;
+ 
+public class eventAllPlayerPlaced : MonoBehaviour
+{
+    [Header("------- Ne pas cocher (seulment pour visualiser) -------")]
+    public bool isPlayerOnePlaced = false;
+    public bool isPlayerTwoPlaced = false;
+    public bool isPlayerThreePlaced = false;
+ 
+    public float timeTilChangeScene; // Time until scene change
+    private float timeWhenChangeScene;
+ 
+    [SerializeField] UnityEvent actionAfterAnimation;
+ 
+    private bool isActionAfterAnimationDone = false;
+ 
+    void Start()
+    {
+        timeWhenChangeScene = Time.time + timeTilChangeScene;
+    }
+ 
+    // Update is called once per frame
+    void Update()
+    {
+        if (isPlayerOnePlaced == true && isPlayerTwoPlaced == true && isPlayerThreePlaced == true)
+        {
+            actionAfterAnimation.Invoke();
+        }
+    }
+ 
+    public void SetPlayerOnePlaced()
+    {
+        isPlayerOnePlaced = true;
+    }
+    public void SetPlayerTwoPlaced()
+    {
+        isPlayerTwoPlaced = true;
+    }
+    public void SetPlayerThreePlaced()
+    {
+        isPlayerThreePlaced = true;
+    }
+ 
+ 
+    public void SetPlayerOneRemoved()
+    {
+        isPlayerOnePlaced = false;
+    }
+    public void SetPlayerTwoRemoved()
+    {
+        isPlayerTwoPlaced = false;
+    }
+    public void SetPlayerThreeRemoved()
+    {
+        isPlayerThreePlaced = false;
+    }
+}
+```
+
+#### Exemple vidéo :
+
+[![unity placement joueur recommencer partie 2025 03 16 video](https://img.youtube.com/vi/UENdedOVX6g/0.jpg)](https://www.youtube.com/watch?v=UENdedOVX6g)
+
+
 <!--* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)-->
