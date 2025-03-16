@@ -69,6 +69,31 @@ Création et et impression des pions pour le projet Etheria, le modèle 3D a ét
  ![modèle 3D](../../Assets/images/image_doc_michael/pionetheria.jpg)
  ![modèle dans orca slicer](../../Assets/images/image_doc_michael/imprimant3d.jpg) 
 
+
+ ## Semaine 7:
+
+ Création de média et implimentation de ces médias dans la création de la décoration des scènes
+
+média:
+
+![buisson](../../Assets/images/image_doc_michael/buisson-Sheet.png)
+![palmier](../../Assets/images/image_doc_michael/palmier-Sheet.png)
+![roche](../../Assets/images/image_doc_michael/roche.png)
+![roche neige](../../Assets/images/image_doc_michael/roche_neige-Sheet.png)
+![sapin](../../Assets/images/image_doc_michael/sapin-Sheet.png)
+![arbre avec neige](../../Assets/images/image_doc_michael/snow_tree.png)
+![bonhomme de neige](../../Assets/images/image_doc_michael/snowman-Sheet.png)
+![arbre](../../Assets/images/image_doc_michael/tree-Sheet.png)
+![tombe](../../Assets/images/image_doc_michael/tombe.png)
+
+décoration:
+![scène 1](../../Assets/images/image_doc_michael/scene_01_bg.png)
+![scène 2](../../Assets/images/image_doc_michael/scene_02_deco.png)
+![scène_4](../../Assets/images/image_doc_michael/scene_04_deco.png)
+![scène_9](../../Assets/images/image_doc_michael/scene_09_deco.png)
+
+
+
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
 
 <!-- * ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept) -->
