@@ -449,7 +449,107 @@ public class eventContainerScript : MonoBehaviour
 
 ```
 
+### Semaine de rattrapage :
 
+Création d'un script pour activer les "BoîteEvénement" une à la fois. Dans l'exemple ci-dessous, le premier apparaît après 7 secondes et les deux autres apparaissent après un nombre de secondes sélectionné au hasard entre 2 et 4 inclusivement. La liste d'objets est l'ordre dans lequel les objets sont activés. L'audio en dessous s'active à chaque activation d'objets.
+
+#### Images + Vidéos :
+
+![unity_activation_boiteevenement_2025-03-16](../../Assets/images/image_doc_victor/unity_activation_boiteevenement_2025-03-16.jpg)
+
+[![unity activation BoiteEvenement 2025 03 16 video](https://img.youtube.com/vi/oPVOHdFCtOg/0.jpg)](https://www.youtube.com/watch?v=oPVOHdFCtOg)
+
+#### Code (*"countDownUntilSpawn"*) :
+
+```c#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+ 
+public class CountDownUntilSpawn : MonoBehaviour
+{
+ 
+    public float timeTilShowFirts;
+    public float timeTilShowNextMin;
+    public float timeTilShowNextMax;
+ 
+    private bool isFirstDone = false;
+ 
+    private float timeDown = 0.0f;
+ 
+    [Header("------- Power Up Box -------")]
+ 
+    public List<GameObject> ListPowerUpBox = new List<GameObject>();
+ 
+    private int currentMaxSpawned = 0;
+ 
+    [Header("------- Audio -------")]
+ 
+    [SerializeField]
+    private AudioSource source;
+ 
+    public List<AudioClip> clips = new List<AudioClip>();
+ 
+    //public GameObject[] ListPowerUpBox;
+ 
+    // Update is called once per frame
+    void Update()
+    {
+        timeDown += Time.deltaTime;
+ 
+        if (isFirstDone == false)
+        {
+            ActivateEventBox(timeTilShowFirts);
+        }
+        if (isFirstDone == true)
+        {
+            float randomValue = Random.Range(timeTilShowNextMin, timeTilShowNextMax);
+            ActivateEventBox(randomValue);
+        }
+ 
+    }
+ 
+    private void ActivateEventBox(float timeTil)
+    {
+        if (timeDown >= timeTil)
+        {
+            if (isFirstDone == false)
+            {
+                isFirstDone = true;
+            }
+ 
+           
+ 
+            timeDown = 0.0f;
+            Debug.Log("hello number : " + currentMaxSpawned);
+            if ((currentMaxSpawned + 1) <= ListPowerUpBox.Count)
+            {
+                if (ListPowerUpBox[currentMaxSpawned] != null)
+                {
+                    if (source != null && clips.Count > 0)
+                    {
+                        int randomClipIndex = Random.Range(0, clips.Count);
+                        source.PlayOneShot(clips[randomClipIndex]);
+                    }
+ 
+                    ListPowerUpBox[currentMaxSpawned].SetActive(true);
+                    currentMaxSpawned++;
+                }
+            }
+        }
+    }
+}
+```
+
+#### Travail sur les scènes Unity :
+
+* Correction de *"bug"*
+
+* Ajout de fonds personnalisés
+
+* Correction des sons
+
+* Correction de *"prefabs"* (ex.: ennemi et *"eventStarter"*)
 
 
 <!--* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)-->
