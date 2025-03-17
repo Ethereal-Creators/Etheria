@@ -464,7 +464,7 @@
 ### 🗓 **Semaine 7** : Travail des vagues 9 et 10 (vague finale)
 
 - **Travail sur la 9e vague**
- ![9eVague](../../Assets/images/image_doc_pl/vague9.png)
+ ![9eVague](../../Assets/images/image_doc_pl/vague9.PNG)
 - **Travail sur la 10e vague**
    ![10eVague](../../Assets/images/image_doc_pl/Finalwave.png)
 
