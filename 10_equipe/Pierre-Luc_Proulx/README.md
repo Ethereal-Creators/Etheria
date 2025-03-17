@@ -342,7 +342,7 @@ public class ShieldBuff : PowerUpEffect
         crystalShieldTimer = newTime; // Apply to the crystal shield timer
         Debug.Log("Shield timer updated to: " + newTime);
     }
-}
+    }
 
     ```
 
