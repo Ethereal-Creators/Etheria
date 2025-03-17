@@ -15,6 +15,7 @@ L'objectif ultime du projet est de créer un sentiment de camaraderie, d'excitat
 
 * ![photo_etheria_diffusion_01](./Assets/images/image_diffusion/photo_etheria_diffusion_01.png)
 * ![photo_etheria_diffusion_02](./Assets/images/image_diffusion/photo_etheria_diffusion_02.png)
+* ![photo_etheria_diffusion_03](./Assets/images/image_diffusion/photo_etheria_diffusion_03.png)
 
 <!--## Devrait être présent sur cette page:
 
