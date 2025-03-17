@@ -165,10 +165,9 @@
   - **Bouclier**  
     ```csharp
     using UnityEngine;
-
-[CreateAssetMenu(fileName = "New Shield Buff", menuName = "Powerups/Shield Buff")]
-public class ShieldBuff : PowerUpEffect
-{
+    [CreateAssetMenu(fileName = "New Shield Buff", menuName = "Powerups/Shield Buff")]
+    public class ShieldBuff : PowerUpEffect
+    {
     public GameObject shieldPrefab; // The shield prefab that will appear on the player and Crystal
     private GameObject playerShield;
     private GameObject crystalShield;
