@@ -147,9 +147,9 @@
 
 ---
 
-### 🗓 **Semaine 7** : À Compléter
+### 🗓 **Semaine 7** : Travail des vagues 9 et 10 (vague finale)
 
-- **À compléter**
+- **travail sur la 9e vague**
 
 ---
 
