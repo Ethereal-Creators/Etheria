@@ -149,9 +149,13 @@
 
 ### 🗓 **Semaine 7** : Travail des vagues 9 et 10 (vague finale)
 
-- **travail sur la 9e vague**
-- **travail sur la 10e vague**
-   ![9eVague](../../Assets/images/image_doc_pl/Finalwave.png)
+- **Travail sur la 9e vague**
+- **Travail sur la 10e vague**
+   ![10eVague](../../Assets/images/image_doc_pl/Finalwave.png)
+
+- **Travailler sur des scripts sur le boss et ses comportements sur scène**
+
+
 
 ---
 
