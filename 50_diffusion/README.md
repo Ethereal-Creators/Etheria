@@ -23,4 +23,8 @@
 * Documentation vidéo de l'installation en action
 -->
 
-* Manuel d'instruction pour opération
+### Manuel d'instruction pour opération
+
+[![manuel etheria video 01](https://img.youtube.com/vi/h0OrHmHDvWs/0.jpg)](https://www.youtube.com/watch?v=h0OrHmHDvWs)
+
+[![manuel etheria video 02](https://img.youtube.com/vi/u59DrC1t3NM/0.jpg)](https://www.youtube.com/watch?v=u59DrC1t3NM)
