@@ -79,3 +79,24 @@ J'ai intégrer l'OSC dans la scène Menu et ensuite créé des animations diffé
 
 - Remise de la maquette
 - Avancement des assets "crystal" et extra
+
+### Semaine 6
+
+Nouveau power up créer pour le paladin et le mage.
+
+
+
+### Semaine de rattrapage
+
+Amélioration des scènes 06 et 07.
+
+### Semaine 7
+
+J'ai fini le montage de la vidéo bande annonce.
+
+
+J'ai aussi créer plus de petites textures pour les différents niveaux. On a aussi pris la décision d'avoir 6 niveaux a la place 10. On a vu que 10 etait trop et on pouvait integrer les differentes methodes de progression sans rendre le jeu trop long.
+
+
+J'ai aussi créer
+
