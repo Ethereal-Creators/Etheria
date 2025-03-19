@@ -79,11 +79,11 @@ J'ai intégrer l'OSC dans la scène Menu et ensuite créé des animations diffé
 
 - Remise de la maquette
 - Avancement des assets "crystal" et extra
+- Corriger ce que les commentaires des profs
 
 ### Semaine 6
 
 Nouveau power up créer pour le paladin et le mage.
-
 
 
 ### Semaine de rattrapage
@@ -98,5 +98,7 @@ J'ai fini le montage de la vidéo bande annonce.
 J'ai aussi créer plus de petites textures pour les différents niveaux. On a aussi pris la décision d'avoir 6 niveaux a la place 10. On a vu que 10 etait trop et on pouvait integrer les differentes methodes de progression sans rendre le jeu trop long.
 
 
-J'ai aussi créer
+J'ai aussi créer des nouvelles animations pour les manches différentes.
+
+J'ai installé les lumières en dessous la table. L'équipe est aussi allé acheter tout ce qui était nécessaire pour le projet, incluant des herbes/girlandes comme décoration et une texture pour permettre au pion de bien glisser sur la table. Je l'ai ensuite installé.
 
