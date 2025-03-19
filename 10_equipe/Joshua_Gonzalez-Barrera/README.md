@@ -100,5 +100,7 @@ J'ai aussi créer plus de petites textures pour les différents niveaux. On a au
 
 J'ai aussi créer des nouvelles animations pour les manches différentes.
 
+J'ai essayé d'améliorer le "cable management" de la structure en haut. Il nécéssitait vraiment d'amélioration.
+
 J'ai installé les lumières en dessous la table. L'équipe est aussi allé acheter tout ce qui était nécessaire pour le projet, incluant des herbes/girlandes comme décoration et une texture pour permettre au pion de bien glisser sur la table. Je l'ai ensuite installé.
 
