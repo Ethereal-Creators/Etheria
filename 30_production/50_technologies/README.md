@@ -60,7 +60,7 @@ Utilisés pour diffuser du son, de la musique, ou des vibrations.
 
 * Unity
   * [extOSC](https://github.com/Iam1337/extOSC)
-  * [Klak](https://github.com/keijiro/Klak/releases)
+  * [Klak Spout](https://github.com/keijiro/KlakSpout)
 
 #### Pour la création de médias :
 
