@@ -43,7 +43,7 @@
   * Bras Articulé Manofrotto x1
   * Clamp x1
  
-### Impresseion 3D :
+### Impression 3D :
 
 * Pion pour les codes ArUco x3
   * plus remplacent si nécessaire
