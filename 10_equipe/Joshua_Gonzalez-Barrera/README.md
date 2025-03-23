@@ -85,6 +85,14 @@ J'ai intégrer l'OSC dans la scène Menu et ensuite créé des animations diffé
 
 Nouveau power up créer pour le paladin et le mage.
 
+On a installé la kinect. Grace au raspberry pi de guillaume, on peut maintenant ce connecté à lui à distance.
+De plus, on a installé des lumières infrarouges pour rendre la visibilité de la kinect meilleure.
+Finalement, j'ai essayé d'améliorer le "cable management" de la structure en haut. Il nécéssitait vraiment d'amélioration.
+
+![Cable Management](../../Assets/images/images_doc_joshua/cableManage.jpg)
+
+![Cable Managemenet 2](../../Assets/images/images_doc_joshua/cableManage2.jpg)
+
 
 ### Semaine de rattrapage
 
@@ -94,13 +102,24 @@ Amélioration des scènes 06 et 07.
 
 J'ai fini le montage de la vidéo bande annonce.
 
+![Bande Annonce Montage](../../Assets/images/images_doc_joshua/annonceEdit.png)
 
 J'ai aussi créer plus de petites textures pour les différents niveaux. On a aussi pris la décision d'avoir 6 niveaux a la place 10. On a vu que 10 etait trop et on pouvait integrer les differentes methodes de progression sans rendre le jeu trop long.
 
 
-J'ai aussi créer des nouvelles animations pour les manches différentes.
+J'ai aussi créer des nouvelles animations pour les manches différentes (1-6).
 
-J'ai essayé d'améliorer le "cable management" de la structure en haut. Il nécéssitait vraiment d'amélioration.
 
 J'ai installé les lumières en dessous la table. L'équipe est aussi allé acheter tout ce qui était nécessaire pour le projet, incluant des herbes/girlandes comme décoration et une texture pour permettre au pion de bien glisser sur la table. Je l'ai ensuite installé.
+
+![Lumière en dessous de la table](../../Assets/images/images_doc_joshua/lumiereEndessous.jpg)
+
+![Texture Pion](../../Assets/images/images_doc_joshua/ajoutTexture.jpg)
+
+
+### Semaine 8 
+Finition de la bande annonce et le making of.
+
+![Montage Making Of](../../Assets/images/images_doc_joshua/makingOfEdit.png)
+
 
