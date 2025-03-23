@@ -11,7 +11,15 @@
 * ![photo_etheria_diffusion_07](../Assets/images/image_diffusion/photo_etheria_diffusion_07.jpg)
 * ![photo_etheria_diffusion_08](../Assets/images/image_diffusion/photo_etheria_diffusion_08.jpg)
 
+#### Vidéo de la diffusion
+
 [![video etheria diffusion v01](https://img.youtube.com/vi/Th9Osda2cKk/0.jpg)](https://www.youtube.com/watch?v=Th9Osda2cKk)
+
+[![vidéo installation Etheria complete avec public diffusion](https://img.youtube.com/vi/m9_iLAv14aE/0.jpg)](https://www.youtube.com/watch?v=m9_iLAv14aE)
+
+#### Ambiance sonore
+
+[![Etheria | capture son à travers l'expérience au complet OBS](https://img.youtube.com/vi/Nc1eCLMUkx0/0.jpg)](https://www.youtube.com/watch?v=Nc1eCLMUkx0)
 
 <!--
 * ![Image 4](https://placehold.co/400x400?text=4+image)
