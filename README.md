@@ -5,9 +5,9 @@ L'objectif ultime du projet est de créer un sentiment de camaraderie, d'excitat
 
 [![Video Explicative](./Assets/images/etheria_thumbnail.jpg)](https://youtu.be/nwJlMtzI-8g)
 
-## Bande-annonce
+## Bande-annonce / Making Of
 
-[![Bande Annonce](./Assets/images/eeeeee_00000.jpg)](https://youtu.be/AuN2cS86ego)
+[![Bande Annonce/Making Of](./Assets/images/eeeeee_00000.jpg)](https://youtu.be/MDbdMdqdUuc)
 
 ## Documentation vidéo de l'installation en action
 
