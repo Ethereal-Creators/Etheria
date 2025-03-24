@@ -89,11 +89,13 @@ J'ai intégrer l'OSC dans la scène Menu et ensuite créé des animations diffé
 
 ### Semaine 6
 
-Nouveau power up créer pour le paladin et le mage.
+#### Nouveau power up créer pour le paladin et le mage.
 
 ![Pouvoir Mage](../../Assets/images/images_doc_joshua/powerBeam_mage.gif)
 
 ![Pouvoir Paladin](../../Assets/images/images_doc_joshua/power_slash.gif)
+
+#### Kinect et Cable Management
 
 On a installé la Kinect. Grâce au Raspberry Pi de Guillaume, on peut maintenant se connecter à lui à distance. De plus, on a installé des lumières infrarouges pour améliorer la visibilité de la Kinect. Enfin, j'ai essayé d'améliorer la gestion des câbles de la structure en haut, qui en avait vraiment besoin.
 
@@ -101,26 +103,44 @@ On a installé la Kinect. Grâce au Raspberry Pi de Guillaume, on peut maintenan
 
 ![Cable Managemenet 2](../../Assets/images/images_doc_joshua/cableManage2.jpg)
 
+#### Animation Chargement
+
+Création d'une nouvelle animation de chargement
+
+![Animation Chargement](../../Assets/images/images_doc_joshua/animationLoading.png)
 
 ### Semaine de rattrapage
 
-Amélioration des scènes 06 et 07.
+#### Amélioration des scènes 03 et 04 (Changement de texture, placement des pouvoirs, etc.)
+
+![Vague 03](../../Assets/images/images_doc_joshua/Scene06Box.png)
+
+![Vague 04](../../Assets/images/images_doc_joshua/Scene07Box.png)
+
 
 ### Semaine 7
+
+#### Montage Vidéo Bande Annonce
 
 J'ai fini le montage de la vidéo bande annonce.
 
 ![Bande Annonce Montage](../../Assets/images/images_doc_joshua/annonceEdit.png)
 
-J'ai aussi créé plus de petites textures pour les différents niveaux. On a également décidé de réduire le nombre de niveaux à 6 au lieu de 10. On a constaté que 10 niveaux étaient trop nombreux et qu'on pouvait intégrer les différentes méthodes de progression sans rendre le jeu trop long.
+#### Changement niveau
 
-Création d'un nouveau indicateur pour le menu
+On a également décidé de réduire le nombre de niveaux à 6 au lieu de 10. On a constaté que 10 niveaux étaient trop nombreux et qu'on pouvait intégrer les différentes méthodes de progression sans rendre le jeu trop long.
+
+#### Création d'un nouveau indicateur pour le menu
 
 ![Indicateur Menu](../../Assets/images/images_doc_joshua/squareIndicator-Sheet.png)
+
+#### Animation Manche
 
 J'ai aussi créer des nouvelles animations pour les manches différentes (1-6).
 
 ![Manche Différente](../../Assets/images/images_doc_joshua/mancheDif.png)
+
+#### Amélioration Table et Pions
 
 J'ai installé les lumières en dessous la table. L'équipe est aussi allé acheter tout ce qui était nécessaire pour le projet, incluant des herbes/girlandes comme décoration et une texture pour permettre au pion de bien glisser sur la table. Je l'ai ensuite installé.
 
@@ -128,14 +148,19 @@ J'ai installé les lumières en dessous la table. L'équipe est aussi allé ache
 
 ![Texture Pion](../../Assets/images/images_doc_joshua/ajoutTexture.jpg)
 
-Création déco desert
+#### Création déco desert (Eau)
 
 ![Eau](../../Assets/images/images_doc_joshua/waterr.gif)
 
 
 ### Semaine 8 
+
+#### Making Of
+
 Finition de la bande annonce et le making of.
 
 ![Montage Making Of](../../Assets/images/images_doc_joshua/makingOfEdit.png)
+
+![Script Making Of](../../Assets/images/images_doc_joshua/scriptMaking.png)
 
 
